@@ -1,0 +1,36 @@
+{
+  "en": [
+    "share price"
+  ], 
+  "zh": "股价", 
+  "en_related": [
+    [
+      "share price", 
+      [
+        "股价"
+      ]
+    ], 
+    [
+      "stock price", 
+      [
+        "股价"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "股价", 
+      [
+        "株価", 
+        "の株価", 
+        "株の相場", 
+        "株価"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Gǔjià", 
+  "ja": [
+    "株価", 
+    "Kabuka"
+  ]
+}

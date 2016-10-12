@@ -1,0 +1,42 @@
+{
+  "en": [
+    "Polluted water"
+  ], 
+  "zh": "污水", 
+  "en_related": [
+    [
+      "polluted water", 
+      [
+        "污水"
+      ]
+    ], 
+    [
+      "foul water", 
+      [
+        "污水"
+      ]
+    ], 
+    [
+      "slops", 
+      [
+        "污水"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "污水", 
+      [
+        "汚染された水", 
+        "汚染水", 
+        "の汚水", 
+        "水質汚染"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Wūshuǐ", 
+  "ja": [
+    "汚染された水", 
+    "Osen sa reta mizu"
+  ]
+}

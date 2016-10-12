@@ -1,0 +1,33 @@
+{
+  "en": [
+    "Property Office"
+  ], 
+  "zh": "财产局", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "财产", 
+      [
+        "プロパティ", 
+        "物件", 
+        "プロパティ・", 
+        "のプロパティ"
+      ]
+    ], 
+    [
+      "局", 
+      [
+        "オフィス", 
+        "事務所", 
+        "オフィスの", 
+        "Officeの", 
+        "のOffice"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Cáichǎn jú", 
+  "ja": [
+    "プロパティオフィス", 
+    "Puropatiofisu"
+  ]
+}

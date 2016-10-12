@@ -1,0 +1,47 @@
+{
+  "en": [
+    "Family member"
+  ], 
+  "zh": "家属", 
+  "en_related": [
+    [
+      "family member", 
+      [
+        "家属"
+      ]
+    ], 
+    [
+      "family dependent", 
+      [
+        "家属", 
+        "眷", 
+        "眷属"
+      ]
+    ], 
+    [
+      "family dependant", 
+      [
+        "家属", 
+        "眷", 
+        "眷属"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "家属", 
+      [
+        "家族の一員", 
+        "ファミリ・メンバ", 
+        "ファミリーのメンバー", 
+        "ファミリーメンバー", 
+        "のファミリーメンバー"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Jiāshǔ", 
+  "ja": [
+    "家族の一員", 
+    "Kazoku no ichiin"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "en": [
+    "Priorities"
+  ], 
+  "zh": "要务", 
+  "en_related": [
+    [
+      "important business", 
+      [
+        "要务"
+      ]
+    ], 
+    [
+      "urgent business", 
+      [
+        "要务"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "要", 
+      [
+        "優先順位", 
+        "優先事項", 
+        "の優先度", 
+        "た優先順位", 
+        "の優先順位"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Yàowù", 
+  "ja": [
+    "優先順位", 
+    "Yūsen jun'i"
+  ]
+}

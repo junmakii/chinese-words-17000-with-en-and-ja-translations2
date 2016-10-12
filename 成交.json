@@ -1,0 +1,44 @@
+{
+  "en": [
+    "Transactions"
+  ], 
+  "zh": "成交", 
+  "en_related": [
+    [
+      "clinch", 
+      [
+        "成交", 
+        "拥"
+      ]
+    ], 
+    [
+      "conclude a transaction", 
+      [
+        "成交"
+      ]
+    ], 
+    [
+      "strike a bargain", 
+      [
+        "成交"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "成交", 
+      [
+        "取引", 
+        "トランザクション", 
+        "のトランザクション", 
+        "・トランザクション", 
+        "の取引"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Chéngjiāo", 
+  "ja": [
+    "取引", 
+    "Torihiki"
+  ]
+}

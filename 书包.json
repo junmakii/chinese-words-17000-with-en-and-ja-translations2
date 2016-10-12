@@ -1,0 +1,34 @@
+{
+  "en": [
+    "school bag"
+  ], 
+  "zh": "书包", 
+  "en_related": [
+    [
+      "schoolbag", 
+      [
+        "书包"
+      ]
+    ], 
+    [
+      "satchel", 
+      [
+        "书包"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "书包", 
+      [
+        "通学かばん", 
+        "通学"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Shūbāo", 
+  "ja": [
+    "通学かばん", 
+    "Tsūgaku kaban"
+  ]
+}

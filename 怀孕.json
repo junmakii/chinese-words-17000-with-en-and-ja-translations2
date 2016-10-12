@@ -1,0 +1,39 @@
+{
+  "en": [
+    "pregnancy"
+  ], 
+  "zh": "怀孕", 
+  "en_related": [
+    [
+      "pregnancy", 
+      [
+        "怀孕", 
+        "孕期", 
+        "身孕", 
+        "喜", 
+        "丰富"
+      ]
+    ], 
+    [
+      "gravidity", 
+      [
+        "怀孕"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "怀孕", 
+      [
+        "妊娠しました", 
+        "妊娠した", 
+        "妊娠している"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Huáiyùn", 
+  "ja": [
+    "妊娠しました", 
+    "Ninshin shimashita"
+  ]
+}

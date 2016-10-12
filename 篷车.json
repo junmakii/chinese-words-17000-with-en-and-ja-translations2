@@ -1,0 +1,44 @@
+{
+  "en": [
+    "Boxcar"
+  ], 
+  "zh": "篷车", 
+  "en_related": [
+    [
+      "boxcar", 
+      [
+        "棚车", 
+        "篷车"
+      ]
+    ], 
+    [
+      "box wagon", 
+      [
+        "棚车", 
+        "篷车"
+      ]
+    ], 
+    [
+      "covered truck", 
+      [
+        "棚车", 
+        "篷车"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "篷车", 
+      [
+        "有蓋車", 
+        "Boxcarの", 
+        "ボックスカー"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Péngchē", 
+  "ja": [
+    "有蓋車", 
+    "Yūgai-sha"
+  ]
+}

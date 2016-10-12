@@ -1,0 +1,51 @@
+{
+  "en": [
+    "Not work"
+  ], 
+  "zh": "不行", 
+  "en_related": [
+    [
+      "not work", 
+      [
+        "不行", 
+        "失灵", 
+        "不灵"
+      ]
+    ], 
+    [
+      "be no good", 
+      [
+        "不行"
+      ]
+    ], 
+    [
+      "not be capable", 
+      [
+        "不行"
+      ]
+    ], 
+    [
+      "be out of the question", 
+      [
+        "不行"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "不行", 
+      [
+        "動作しません", 
+        "動作しない", 
+        "機能しない", 
+        "動作しませ", 
+        "機能しませ"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Bùxíng", 
+  "ja": [
+    "動作しません", 
+    "Dōsa shimasen"
+  ]
+}

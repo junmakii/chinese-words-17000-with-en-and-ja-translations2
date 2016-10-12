@@ -1,0 +1,38 @@
+{
+  "en": [
+    "traffic light"
+  ], 
+  "zh": "红绿灯", 
+  "en_related": [
+    [
+      "traffic light", 
+      [
+        "红绿灯", 
+        "红灯"
+      ]
+    ], 
+    [
+      "traffic signal", 
+      [
+        "红绿灯"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "红绿灯", 
+      [
+        "交通信号灯", 
+        "信号機", 
+        "交通信号", 
+        "の信号機", 
+        "交通信号の"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Hónglǜdēng", 
+  "ja": [
+    "交通信号灯", 
+    "Kōtsū shingō-tō"
+  ]
+}

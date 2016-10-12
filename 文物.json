@@ -1,0 +1,47 @@
+{
+  "en": [
+    "Cultural relic"
+  ], 
+  "zh": "文物", 
+  "en_related": [
+    [
+      "cultural relic", 
+      [
+        "文物"
+      ]
+    ], 
+    [
+      "historical relic", 
+      [
+        "文物", 
+        "史迹"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "文物", 
+      [
+        "文化", 
+        "文化的", 
+        "の文化的", 
+        "な文化", 
+        "カルチュラル"
+      ]
+    ], 
+    [
+      "文物", 
+      [
+        "遺物", 
+        "がrelic", 
+        "の遺物", 
+        "レリック"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Wénwù", 
+  "ja": [
+    "文化遺物", 
+    "Bunka ibutsu"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "en": [
+    "profession"
+  ], 
+  "zh": "专业", 
+  "en_related": [
+    [
+      "specialty", 
+      [
+        "专业", 
+        "特产", 
+        "特长", 
+        "专长"
+      ]
+    ], 
+    [
+      "discipline", 
+      [
+        "学科", 
+        "纪律", 
+        "纪", 
+        "专业", 
+        "规律", 
+        "课程"
+      ]
+    ], 
+    [
+      "specialized subject", 
+      [
+        "专业"
+      ]
+    ], 
+    [
+      "specialized field", 
+      [
+        "专业"
+      ]
+    ], 
+    [
+      "special field of study", 
+      [
+        "专业"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "专业", 
+      [
+        "専門", 
+        "スペシャリティ", 
+        "スペシャルティ", 
+        "名物", 
+        "の専門"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhuānyè", 
+  "ja": [
+    "専門", 
+    "Senmon"
+  ]
+}

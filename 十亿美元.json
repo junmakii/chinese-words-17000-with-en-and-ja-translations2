@@ -1,0 +1,31 @@
+{
+  "en": [
+    "One billion US dollars"
+  ], 
+  "zh": "十亿美元", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "十亿", 
+      [
+        "一", 
+        "One", 
+        "の一つ", 
+        "つ", 
+        "ひとつ"
+      ]
+    ], 
+    [
+      "十亿", 
+      [
+        "億米ドル", 
+        "億ドル"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Shí yì měiyuán", 
+  "ja": [
+    "一億米ドル", 
+    "Ichi oku amerikadoru"
+  ]
+}

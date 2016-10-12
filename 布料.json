@@ -1,0 +1,38 @@
+{
+  "en": [
+    "Cotton material"
+  ], 
+  "zh": "布料", 
+  "en_related": [
+    [
+      "cotton material", 
+      [
+        "布料"
+      ]
+    ], 
+    [
+      "drapery", 
+      [
+        "布料", 
+        "帐帘"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "布料", 
+      [
+        "木綿素材", 
+        "の綿素材", 
+        "素材は綿", 
+        "コットン素材", 
+        "綿素材"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Bùliào", 
+  "ja": [
+    "木綿素材", 
+    "Momen sozai"
+  ]
+}

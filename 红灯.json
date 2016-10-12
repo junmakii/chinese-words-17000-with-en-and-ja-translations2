@@ -1,0 +1,37 @@
+{
+  "en": [
+    "red light"
+  ], 
+  "zh": "红灯", 
+  "en_related": [
+    [
+      "red light", 
+      [
+        "红灯"
+      ]
+    ], 
+    [
+      "traffic light", 
+      [
+        "红绿灯", 
+        "红灯"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "红灯", 
+      [
+        "赤信号", 
+        "た赤色光", 
+        "赤の光", 
+        "赤いライト"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Hóng dēng", 
+  "ja": [
+    "赤信号", 
+    "Akashingō"
+  ]
+}

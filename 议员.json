@@ -1,0 +1,57 @@
+{
+  "en": [
+    "Member"
+  ], 
+  "zh": "议员", 
+  "en_related": [
+    [
+      "parliamentary", 
+      [
+        "议员"
+      ]
+    ], 
+    [
+      "representative", 
+      [
+        "代表", 
+        "众议员", 
+        "议员"
+      ]
+    ], 
+    [
+      "US Congressman", 
+      [
+        "议员"
+      ]
+    ], 
+    [
+      "US Congresswoman", 
+      [
+        "议员"
+      ]
+    ], 
+    [
+      "member of legislative body", 
+      [
+        "议员"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "议员", 
+      [
+        "メンバー", 
+        "会員", 
+        "メンバーの", 
+        "一員", 
+        "メンバ"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Yìyuán", 
+  "ja": [
+    "メンバー", 
+    "Menbā"
+  ]
+}

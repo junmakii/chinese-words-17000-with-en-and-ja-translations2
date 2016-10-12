@@ -1,0 +1,37 @@
+{
+  "en": [
+    "Students"
+  ], 
+  "zh": "留学生", 
+  "en_related": [
+    [
+      "student studying abroad", 
+      [
+        "留学生"
+      ]
+    ], 
+    [
+      "returned student", 
+      [
+        "留学生"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "留学生", 
+      [
+        "学生", 
+        "生徒", 
+        "学生が", 
+        "の学生", 
+        "の生徒"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Liúxuéshēng", 
+  "ja": [
+    "学生", 
+    "Gakusei"
+  ]
+}

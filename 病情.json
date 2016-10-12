@@ -1,0 +1,37 @@
+{
+  "en": [
+    "Patient's condition"
+  ], 
+  "zh": "病情", 
+  "en_related": [
+    [
+      "state of an illness", 
+      [
+        "病况", 
+        "病情"
+      ]
+    ], 
+    [
+      "patient's condition", 
+      [
+        "病况", 
+        "病情", 
+        "病势"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "病情", 
+      [
+        "患者の容体", 
+        "の患者の状態"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Bìngqíng", 
+  "ja": [
+    "患者の容体", 
+    "Kanja no yōdai"
+  ]
+}

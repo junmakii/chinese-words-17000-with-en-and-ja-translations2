@@ -1,0 +1,37 @@
+{
+  "en": [
+    "Employed"
+  ], 
+  "zh": "受雇", 
+  "en_related": [
+    [
+      "apply for a job", 
+      [
+        "受雇"
+      ]
+    ], 
+    [
+      "apply for work", 
+      [
+        "受雇"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "受雇", 
+      [
+        "採用", 
+        "採用さ", 
+        "使用さ", 
+        "を採用", 
+        "使用される"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Shòu gù", 
+  "ja": [
+    "採用", 
+    "Saiyō"
+  ]
+}

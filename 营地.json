@@ -1,0 +1,42 @@
+{
+  "en": [
+    "Campsite"
+  ], 
+  "zh": "营地", 
+  "en_related": [
+    [
+      "campsite", 
+      [
+        "营地"
+      ]
+    ], 
+    [
+      "campground", 
+      [
+        "营地"
+      ]
+    ], 
+    [
+      "camping ground", 
+      [
+        "营地"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "营地", 
+      [
+        "キャンプ場", 
+        "Campsiteの", 
+        "のキャンプサイト", 
+        "のキャンプ場"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Yíngdì", 
+  "ja": [
+    "キャンプ場", 
+    "Kyanpuba"
+  ]
+}

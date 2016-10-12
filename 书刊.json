@@ -1,0 +1,41 @@
+{
+  "en": [
+    "Books and periodicals"
+  ], 
+  "zh": "书刊", 
+  "en_related": [
+    [
+      "books and periodicals", 
+      [
+        "书刊"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "书刊", 
+      [
+        "書籍や", 
+        "本と", 
+        "ブックと", 
+        "の書籍や", 
+        "ブックや"
+      ]
+    ], 
+    [
+      "书刊", 
+      [
+        "定期刊行物", 
+        "定期刊行", 
+        "雑誌", 
+        "の定期刊行物", 
+        "の定期"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Shūkān", 
+  "ja": [
+    "書籍や定期刊行物", 
+    "Shoseki ya teiki kankō-mono"
+  ]
+}

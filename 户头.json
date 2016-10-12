@@ -1,0 +1,30 @@
+{
+  "en": [
+    "Bank account"
+  ], 
+  "zh": "户头", 
+  "en_related": [
+    [
+      "bank account", 
+      [
+        "户头"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "户头", 
+      [
+        "銀行預金口座", 
+        "Bankの口座", 
+        "の口座", 
+        "の銀行口座"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Hùtóu", 
+  "ja": [
+    "銀行預金口座", 
+    "Ginkō yokin kōza"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "en": [
+    "Can not find"
+  ], 
+  "zh": "找不到", 
+  "en_related": [
+    [
+      "cannot find", 
+      [
+        "找不到"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "找不到", 
+      [
+        "見つけることができません", 
+        "見つけることができない", 
+        "見つかりません"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhǎo bù dào", 
+  "ja": [
+    "見つけることができません", 
+    "Mitsukeru koto ga dekimasen"
+  ]
+}

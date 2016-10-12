@@ -1,0 +1,31 @@
+{
+  "en": [
+    "Document"
+  ], 
+  "zh": "公文", 
+  "en_related": [
+    [
+      "official document", 
+      [
+        "公文", 
+        "牒"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "公文", 
+      [
+        "ドキュメント", 
+        "文書", 
+        "のドキュメント", 
+        "の文書"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Gōngwén", 
+  "ja": [
+    "ドキュメント", 
+    "Dokyumento"
+  ]
+}

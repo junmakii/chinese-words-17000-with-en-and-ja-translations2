@@ -1,0 +1,42 @@
+{
+  "en": [
+    "Introduce"
+  ], 
+  "zh": "引进", 
+  "en_related": [
+    [
+      "introduce from elsewhere", 
+      [
+        "引进"
+      ]
+    ], 
+    [
+      "recommend", 
+      [
+        "推荐", 
+        "建议", 
+        "荐", 
+        "提倡", 
+        "荐举", 
+        "引进"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "引进", 
+      [
+        "紹介します", 
+        "紹介する", 
+        "導入する", 
+        "取り入れる", 
+        "ご紹介し"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Yǐnjìn", 
+  "ja": [
+    "紹介します", 
+    "Shōkai shimasu"
+  ]
+}

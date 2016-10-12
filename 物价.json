@@ -1,0 +1,32 @@
+{
+  "en": [
+    "Commodity price"
+  ], 
+  "zh": "物价", 
+  "en_related": [
+    [
+      "commodity price", 
+      [
+        "物价", 
+        "货价", 
+        "商品价格"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "物价", 
+      [
+        "商品価格", 
+        "・商品代金", 
+        "は商品代金", 
+        "商品代金"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Wùjià", 
+  "ja": [
+    "商品価格", 
+    "Shōhin kakaku"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "en": [
+    "corresponding"
+  ], 
+  "zh": "相应", 
+  "en_related": [
+    [
+      "corresponding", 
+      [
+        "相应", 
+        "对应的", 
+        "通信的"
+      ]
+    ], 
+    [
+      "relevant", 
+      [
+        "相应", 
+        "应用", 
+        "贴题"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "相应", 
+      [
+        "対応します", 
+        "対応する", 
+        "に対応する", 
+        "対応し"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Xiāngyìng", 
+  "ja": [
+    "対応します", 
+    "Taiō shimasu"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "en": [
+    "Traffic accident"
+  ], 
+  "zh": "车祸", 
+  "en_related": [
+    [
+      "traffic accident", 
+      [
+        "车祸"
+      ]
+    ], 
+    [
+      "road accident", 
+      [
+        "车祸"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "车祸", 
+      [
+        "交通事故", 
+        "に交通事故", 
+        "の交通事故"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Chēhuò", 
+  "ja": [
+    "交通事故", 
+    "Kōtsū jiko"
+  ]
+}

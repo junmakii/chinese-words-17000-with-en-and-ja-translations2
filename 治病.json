@@ -1,0 +1,35 @@
+{
+  "en": [
+    "Treat a disease"
+  ], 
+  "zh": "治病", 
+  "en_related": [
+    [
+      "treat a disease", 
+      [
+        "治病"
+      ]
+    ], 
+    [
+      "treat an illness", 
+      [
+        "治病"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "治病", 
+      [
+        "疾患を治療", 
+        "疾患を処置", 
+        "疾患を処置する"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhì bìng", 
+  "ja": [
+    "疾患を治療", 
+    "Shikkan o chiryō"
+  ]
+}

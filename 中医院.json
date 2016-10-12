@@ -1,0 +1,32 @@
+{
+  "en": [
+    "Chinese medicine hospital"
+  ], 
+  "zh": "中医院", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "中医院", 
+      [
+        "中国医学", 
+        "中国薬", 
+        "な中国医学", 
+        "の中国薬"
+      ]
+    ], 
+    [
+      "中医院", 
+      [
+        "病院", 
+        "病院の", 
+        "ホスピタル", 
+        "病院で"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhōng yīyuàn", 
+  "ja": [
+    "中国医学病院", 
+    "Chūgoku igaku byōin"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "en": [
+    "turn up"
+  ], 
+  "zh": "找到", 
+  "en_related": [
+    [
+      "have found", 
+      [
+        "找到"
+      ]
+    ], 
+    [
+      "succeed in finding", 
+      [
+        "找到"
+      ]
+    ], 
+    [
+      "outcrop", 
+      [
+        "找到", 
+        "发现"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "找到", 
+      [
+        "見つけます", 
+        "見つける", 
+        "発見", 
+        "検索し", 
+        "を探す"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhǎodào", 
+  "ja": [
+    "見つけます", 
+    "Mitsukemasu"
+  ]
+}

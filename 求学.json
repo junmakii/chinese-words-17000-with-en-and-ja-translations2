@@ -1,0 +1,47 @@
+{
+  "en": [
+    "Attend school"
+  ], 
+  "zh": "求学", 
+  "en_related": [
+    [
+      "attend school", 
+      [
+        "上学", 
+        "求学", 
+        "读书", 
+        "读"
+      ]
+    ], 
+    [
+      "seek knowledge", 
+      [
+        "求学"
+      ]
+    ], 
+    [
+      "go to school", 
+      [
+        "上学", 
+        "求学"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "求学", 
+      [
+        "学校に通います", 
+        "学校に通う", 
+        "就学", 
+        "登校", 
+        "学校に行く"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Qiúxué", 
+  "ja": [
+    "学校に通います", 
+    "Gakkō ni kayoimasu"
+  ]
+}

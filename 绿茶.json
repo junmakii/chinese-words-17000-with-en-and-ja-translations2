@@ -1,0 +1,30 @@
+{
+  "en": [
+    "green tea"
+  ], 
+  "zh": "绿茶", 
+  "en_related": [
+    [
+      "green tea", 
+      [
+        "绿茶", 
+        "碧螺春"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "绿茶", 
+      [
+        "緑茶", 
+        "お茶", 
+        "の緑茶"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Lǜchá", 
+  "ja": [
+    "緑茶", 
+    "Ryokucha"
+  ]
+}

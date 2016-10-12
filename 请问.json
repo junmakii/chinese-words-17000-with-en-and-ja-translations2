@@ -1,0 +1,32 @@
+{
+  "en": [
+    "Excuse me"
+  ], 
+  "zh": "请问", 
+  "en_related": [
+    [
+      "Excuse me!", 
+      [
+        "对不起!", 
+        "劳驾!", 
+        "请问!"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "请问", 
+      [
+        "失礼しました", 
+        "失礼", 
+        "すみません", 
+        "すみませんが"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Qǐngwèn", 
+  "ja": [
+    "失礼しました", 
+    "Shitsureishimashita"
+  ]
+}

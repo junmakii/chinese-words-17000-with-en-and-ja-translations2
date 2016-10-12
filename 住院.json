@@ -1,0 +1,37 @@
+{
+  "en": [
+    "Hospitalized"
+  ], 
+  "zh": "住院", 
+  "en_related": [
+    [
+      "be hospitalized", 
+      [
+        "住院"
+      ]
+    ], 
+    [
+      "be in hospital", 
+      [
+        "住院"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "住院", 
+      [
+        "入院します", 
+        "入院する", 
+        "入院している", 
+        "入院", 
+        "に入院"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhùyuàn", 
+  "ja": [
+    "入院します", 
+    "Nyūin shimasu"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "en": [
+    "apple"
+  ], 
+  "zh": "苹果", 
+  "en_related": [
+    [
+      "apple", 
+      [
+        "苹果", 
+        "苹"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "苹果", 
+      [
+        "アップル", 
+        "Appleの", 
+        "のApple", 
+        "のアップル"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Píngguǒ", 
+  "ja": [
+    "アップル", 
+    "Appuru"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "en": [
+    "parents"
+  ], 
+  "zh": "双亲", 
+  "en_related": [
+    [
+      "parents", 
+      [
+        "父母", 
+        "双亲"
+      ]
+    ], 
+    [
+      "father and mother", 
+      [
+        "父母", 
+        "双亲"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "双亲", 
+      [
+        "両親", 
+        "親", 
+        "の両親", 
+        "ペアレンツ"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Shuāngqīn", 
+  "ja": [
+    "両親", 
+    "Ryōshin"
+  ]
+}

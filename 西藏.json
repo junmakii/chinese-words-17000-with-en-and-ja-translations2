@@ -1,0 +1,38 @@
+{
+  "en": [
+    "Tibet"
+  ], 
+  "zh": "西藏", 
+  "en_related": [
+    [
+      "Tibet", 
+      [
+        "西藏", 
+        "藏", 
+        "吐蕃"
+      ]
+    ], 
+    [
+      "Xizang Autonomous Region", 
+      [
+        "西藏"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "西藏", 
+      [
+        "チベット", 
+        "チベットの", 
+        "のチベット", 
+        "チベット自治"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Xīzàng", 
+  "ja": [
+    "チベット", 
+    "Chibetto"
+  ]
+}

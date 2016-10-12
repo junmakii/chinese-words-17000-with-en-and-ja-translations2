@@ -1,0 +1,37 @@
+{
+  "en": [
+    "selected"
+  ], 
+  "zh": "选", 
+  "en_related": [
+    [
+      "selected", 
+      [
+        "选"
+      ]
+    ], 
+    [
+      "electoral", 
+      [
+        "选"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "选", 
+      [
+        "選択しました", 
+        "選択した", 
+        "選択された", 
+        "選択し", 
+        "選択され"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Xuǎn", 
+  "ja": [
+    "選択しました", 
+    "Sentaku shimashita"
+  ]
+}

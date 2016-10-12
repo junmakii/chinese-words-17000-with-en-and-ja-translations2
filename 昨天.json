@@ -1,0 +1,29 @@
+{
+  "en": [
+    "yesterday"
+  ], 
+  "zh": "昨天", 
+  "en_related": [
+    [
+      "yesterday", 
+      [
+        "昨天"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "昨天", 
+      [
+        "昨日", 
+        "昨日の", 
+        "今日登録日"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zuótiān", 
+  "ja": [
+    "昨日", 
+    "Kinō"
+  ]
+}

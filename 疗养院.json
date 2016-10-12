@@ -1,0 +1,54 @@
+{
+  "en": [
+    "nursing home"
+  ], 
+  "zh": "疗养院", 
+  "en_related": [
+    [
+      "nursing home", 
+      [
+        "疗养院"
+      ]
+    ], 
+    [
+      "sanatorium", 
+      [
+        "疗养院", 
+        "疗养地", 
+        "休養所"
+      ]
+    ], 
+    [
+      "sanitarium", 
+      [
+        "疗养院", 
+        "疗养地", 
+        "休養所"
+      ]
+    ], 
+    [
+      "rest home", 
+      [
+        "疗养院", 
+        "休養所"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "疗养院", 
+      [
+        "療養所", 
+        "サナトリウム", 
+        "保養地", 
+        "Sanatoriumの", 
+        "の療養所"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Liáoyǎngyuàn", 
+  "ja": [
+    "療養所", 
+    "Ryōyōsho"
+  ]
+}

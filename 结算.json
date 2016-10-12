@@ -1,0 +1,37 @@
+{
+  "en": [
+    "Billing"
+  ], 
+  "zh": "结算", 
+  "en_related": [
+    [
+      "settle accounts", 
+      [
+        "结算", 
+        "结帐"
+      ]
+    ], 
+    [
+      "close an account", 
+      [
+        "结算"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "结算", 
+      [
+        "請求", 
+        "課金", 
+        "の課金", 
+        "の請求"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Jiésuàn", 
+  "ja": [
+    "請求", 
+    "Seikyū"
+  ]
+}

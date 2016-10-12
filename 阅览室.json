@@ -1,0 +1,44 @@
+{
+  "en": [
+    "Reading room"
+  ], 
+  "zh": "阅览室", 
+  "en_related": [
+    [
+      "reading room", 
+      [
+        "阅览室"
+      ]
+    ], 
+    [
+      "newsroom", 
+      [
+        "编辑部", 
+        "阅览室"
+      ]
+    ], 
+    [
+      "lyceum", 
+      [
+        "阅览室"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "阅览室", 
+      [
+        "読書室", 
+        "閲覧室", 
+        "の閲覧室", 
+        "た読影室", 
+        "図書室"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Yuèlǎn shì", 
+  "ja": [
+    "読書室", 
+    "Dokusho-shitsu"
+  ]
+}

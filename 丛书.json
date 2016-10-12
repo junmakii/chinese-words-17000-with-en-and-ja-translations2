@@ -1,0 +1,41 @@
+{
+  "en": [
+    "Series of books"
+  ], 
+  "zh": "丛书", 
+  "en_related": [
+    [
+      "series of books", 
+      [
+        "丛书", 
+        "丛刊"
+      ]
+    ], 
+    [
+      "collection", 
+      [
+        "采集", 
+        "集", 
+        "搜集", 
+        "征收", 
+        "汇集", 
+        "丛书"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "丛书", 
+      [
+        "一連の書籍", 
+        "冊", 
+        "冊に"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Cóngshū", 
+  "ja": [
+    "一連の書籍", 
+    "Ichiren no shoseki"
+  ]
+}

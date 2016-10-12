@@ -1,0 +1,45 @@
+{
+  "en": [
+    "saw"
+  ], 
+  "zh": "锯", 
+  "en_related": [
+    [
+      "saw", 
+      [
+        "锯", 
+        "锯开"
+      ]
+    ], 
+    [
+      "cut with a saw", 
+      [
+        "锯"
+      ]
+    ], 
+    [
+      "mend chinaware with staples", 
+      [
+        "锯", 
+        "锔"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "锯", 
+      [
+        "ソー", 
+        "のこぎり", 
+        "鋸", 
+        "Sawの", 
+        "ソウ"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Jù", 
+  "ja": [
+    "ソー", 
+    "Sō"
+  ]
+}

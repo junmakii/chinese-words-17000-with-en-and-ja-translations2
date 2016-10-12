@@ -1,0 +1,38 @@
+{
+  "en": [
+    "vegetable garden"
+  ], 
+  "zh": "菜园", 
+  "en_related": [
+    [
+      "vegetable garden", 
+      [
+        "菜园", 
+        "菜圃"
+      ]
+    ], 
+    [
+      "vegetable farm", 
+      [
+        "菜园", 
+        "菜圃"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "菜园", 
+      [
+        "菜園", 
+        "た菜園", 
+        "家庭菜園", 
+        "の菜園"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Càiyuán", 
+  "ja": [
+    "菜園", 
+    "Saien"
+  ]
+}

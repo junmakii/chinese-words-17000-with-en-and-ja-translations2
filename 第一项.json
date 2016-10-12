@@ -1,0 +1,24 @@
+{
+  "en": [
+    "First item"
+  ], 
+  "zh": "第一项", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "第一", 
+      [
+        "最初の", 
+        "最初に", 
+        "最初", 
+        "第一", 
+        "まず"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Dì yī xiàng", 
+  "ja": [
+    "最初の", 
+    "Saisho no"
+  ]
+}

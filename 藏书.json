@@ -1,0 +1,38 @@
+{
+  "en": [
+    "Collection of books"
+  ], 
+  "zh": "藏书", 
+  "en_related": [
+    [
+      "library", 
+      [
+        "图书馆", 
+        "文库", 
+        "图书室", 
+        "藏书"
+      ]
+    ], 
+    [
+      "collection of books", 
+      [
+        "藏书", 
+        "丛"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "藏书", 
+      [
+        "本のコレクション", 
+        "蔵書"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Cángshū", 
+  "ja": [
+    "本のコレクション", 
+    "Hon no korekushon"
+  ]
+}

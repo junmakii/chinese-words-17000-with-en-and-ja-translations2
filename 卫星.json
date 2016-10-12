@@ -1,0 +1,59 @@
+{
+  "en": [
+    "satellite"
+  ], 
+  "zh": "卫星", 
+  "en_related": [
+    [
+      "satellite", 
+      [
+        "卫星", 
+        "星"
+      ]
+    ], 
+    [
+      "moon", 
+      [
+        "月亮", 
+        "月", 
+        "卫星", 
+        "太阴", 
+        "婵娟", 
+        "蟾宫"
+      ]
+    ], 
+    [
+      "artificial satellite", 
+      [
+        "卫星"
+      ]
+    ], 
+    [
+      "space satellite", 
+      [
+        "卫星"
+      ]
+    ], 
+    [
+      "man-made satellite", 
+      [
+        "卫星"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "卫星", 
+      [
+        "衛星", 
+        "サテライト", 
+        "人工衛星"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Wèixīng", 
+  "ja": [
+    "衛星", 
+    "Eisei"
+  ]
+}

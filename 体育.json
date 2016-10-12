@@ -1,0 +1,44 @@
+{
+  "en": [
+    "physical education"
+  ], 
+  "zh": "体育", 
+  "en_related": [
+    [
+      "sports", 
+      [
+        "体育", 
+        "运动", 
+        "竞技"
+      ]
+    ], 
+    [
+      "physical culture", 
+      [
+        "体育"
+      ]
+    ], 
+    [
+      "physical training", 
+      [
+        "体育"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "体育", 
+      [
+        "スポーツの", 
+        "・スポーツ", 
+        "のスポーツ施設", 
+        "スポツ"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Tǐyù", 
+  "ja": [
+    "スポーツの", 
+    "Supōtsu no"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "en": [
+    "Securities"
+  ], 
+  "zh": "证券", 
+  "en_related": [
+    [
+      "negotiable securities", 
+      [
+        "证券"
+      ]
+    ], 
+    [
+      "financial securities", 
+      [
+        "证券"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "证券", 
+      [
+        "有価証券", 
+        "証券", 
+        "の証券", 
+        "・セキュリティーズ", 
+        "セキュリティーズ"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhèngquàn", 
+  "ja": [
+    "有価証券", 
+    "Yūka shōken"
+  ]
+}

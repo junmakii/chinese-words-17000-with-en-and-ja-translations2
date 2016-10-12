@@ -1,0 +1,31 @@
+{
+  "en": [
+    "write a letter"
+  ], 
+  "zh": "写信", 
+  "en_related": [
+    [
+      "write a letter", 
+      [
+        "写信"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "写信", 
+      [
+        "手紙を書きます", 
+        "手紙を書く", 
+        "メールを送る", 
+        "メールを送る企業と", 
+        "レターの"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Xiě xìn", 
+  "ja": [
+    "手紙を書きます", 
+    "Tegami o kakimasu"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "en": [
+    "money transfer"
+  ], 
+  "zh": "汇款", 
+  "en_related": [
+    [
+      "remittance", 
+      [
+        "汇款", 
+        "汇兑"
+      ]
+    ], 
+    [
+      "remit money", 
+      [
+        "汇款"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "汇款", 
+      [
+        "送金", 
+        "ご送金", 
+        "に送金", 
+        "の送金"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Huìkuǎn", 
+  "ja": [
+    "送金", 
+    "Sōkin"
+  ]
+}

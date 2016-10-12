@@ -1,0 +1,31 @@
+{
+  "en": [
+    "Ordered"
+  ], 
+  "zh": "下令", 
+  "en_related": [
+    [
+      "give an order", 
+      [
+        "下令"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "下令", 
+      [
+        "順序付けられました", 
+        "順序付けられた", 
+        "命じ", 
+        "注文し", 
+        "注文した"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Xiàlìng", 
+  "ja": [
+    "順序付けられました", 
+    "Junjodzuke raremashita"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "en": [
+    "pension"
+  ], 
+  "zh": "退休金", 
+  "en_related": [
+    [
+      "pension", 
+      [
+        "退休金", 
+        "抚恤金"
+      ]
+    ], 
+    [
+      "retirement pension", 
+      [
+        "退休金", 
+        "退还基金"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "退休金", 
+      [
+        "年金", 
+        "の年金", 
+        "ペンション"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Tuìxiū jīn", 
+  "ja": [
+    "年金", 
+    "Nenkin"
+  ]
+}

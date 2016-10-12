@@ -1,0 +1,35 @@
+{
+  "en": [
+    "Church member"
+  ], 
+  "zh": "教友", 
+  "en_related": [
+    [
+      "church member", 
+      [
+        "教友"
+      ]
+    ], 
+    [
+      "churchman", 
+      [
+        "牧师", 
+        "教士", 
+        "教友"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "教友", 
+      [
+        "教会員"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Jiào yǒu", 
+  "ja": [
+    "教会員", 
+    "Kyō kaiin"
+  ]
+}

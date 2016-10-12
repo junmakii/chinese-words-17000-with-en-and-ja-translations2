@@ -1,0 +1,22 @@
+{
+  "en": [
+    "this one"
+  ], 
+  "zh": "这一个", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "这", 
+      [
+        "これは", 
+        "これです", 
+        "これが"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhè yīgè", 
+  "ja": [
+    "これは", 
+    "Koreha"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "en": [
+    "Increment"
+  ], 
+  "zh": "递增", 
+  "en_related": [
+    [
+      "increase by degrees", 
+      [
+        "递增", 
+        "递进", 
+        "递加"
+      ]
+    ], 
+    [
+      "progressively increase", 
+      [
+        "递加", 
+        "递进", 
+        "递增"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "递增", 
+      [
+        "インクリメント", 
+        "増分", 
+        "のインクリメント", 
+        "をインクリメント"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Dìzēng", 
+  "ja": [
+    "インクリメント", 
+    "Inkurimento"
+  ]
+}

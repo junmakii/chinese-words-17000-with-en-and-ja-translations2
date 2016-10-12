@@ -1,0 +1,37 @@
+{
+  "en": [
+    "desktop"
+  ], 
+  "zh": "桌面", 
+  "en_related": [
+    [
+      "desktop", 
+      [
+        "桌面", 
+        "桌上型"
+      ]
+    ], 
+    [
+      "tabletop", 
+      [
+        "桌面"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "桌面", 
+      [
+        "デスクトップ", 
+        "Desktopの", 
+        "のデスクトップ", 
+        "デスクトップ"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhuōmiàn", 
+  "ja": [
+    "デスクトップ", 
+    "Desuku toppu"
+  ]
+}

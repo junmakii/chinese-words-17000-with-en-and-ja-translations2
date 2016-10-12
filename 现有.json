@@ -1,0 +1,42 @@
+{
+  "en": [
+    "existing"
+  ], 
+  "zh": "现有", 
+  "en_related": [
+    [
+      "existing", 
+      [
+        "现有", 
+        "现"
+      ]
+    ], 
+    [
+      "currently existing", 
+      [
+        "现有"
+      ]
+    ], 
+    [
+      "now existing", 
+      [
+        "现有"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "现有", 
+      [
+        "既存の", 
+        "存在する", 
+        "従来の"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Xiàn yǒu", 
+  "ja": [
+    "既存の", 
+    "Kizon no"
+  ]
+}

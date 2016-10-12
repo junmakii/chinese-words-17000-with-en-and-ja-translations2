@@ -1,0 +1,24 @@
+{
+  "en": [
+    "Recovered"
+  ], 
+  "zh": "追缴", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "追缴", 
+      [
+        "回収されました", 
+        "回収された", 
+        "回収した", 
+        "回収され", 
+        "回復し"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhuījiǎo", 
+  "ja": [
+    "回収されました", 
+    "Kaishū sa remashita"
+  ]
+}

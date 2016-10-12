@@ -1,0 +1,53 @@
+{
+  "en": [
+    "public security"
+  ], 
+  "zh": "公安", 
+  "en_related": [
+    [
+      "public security", 
+      [
+        "公安", 
+        "治安", 
+        "保安"
+      ]
+    ], 
+    [
+      "public order", 
+      [
+        "公安", 
+        "治安"
+      ]
+    ], 
+    [
+      "public safety", 
+      [
+        "公安", 
+        "治安"
+      ]
+    ], 
+    [
+      "ministry of public security", 
+      [
+        "公安部", 
+        "公安"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "公安", 
+      [
+        "公安", 
+        "治安", 
+        "に公安", 
+        "の公安"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Gōng'ān", 
+  "ja": [
+    "公安", 
+    "Kōan"
+  ]
+}

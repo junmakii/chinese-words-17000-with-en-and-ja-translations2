@@ -1,0 +1,40 @@
+{
+  "en": [
+    "graduate School"
+  ], 
+  "zh": "研究所", 
+  "en_related": [
+    [
+      "institute", 
+      [
+        "研究所", 
+        "学院", 
+        "学会"
+      ]
+    ], 
+    [
+      "research institute", 
+      [
+        "研究所", 
+        "研究机构"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "研究所", 
+      [
+        "機関", 
+        "学院", 
+        "協会", 
+        "同研究所", 
+        "インスティチュート"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Yánjiū suǒ", 
+  "ja": [
+    "機関", 
+    "Kikan"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "en": [
+    "cemetery"
+  ], 
+  "zh": "墓地", 
+  "en_related": [
+    [
+      "cemetery", 
+      [
+        "公墓", 
+        "墓地", 
+        "陵园"
+      ]
+    ], 
+    [
+      "graveyard", 
+      [
+        "墓地"
+      ]
+    ], 
+    [
+      "churchyard", 
+      [
+        "墓地", 
+        "教堂墓地"
+      ]
+    ], 
+    [
+      "golgotha", 
+      [
+        "墓地"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "墓地", 
+      [
+        "墓地", 
+        "Cemeteryの", 
+        "共同墓地", 
+        "墓"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Mùdì", 
+  "ja": [
+    "墓地", 
+    "Bochi"
+  ]
+}

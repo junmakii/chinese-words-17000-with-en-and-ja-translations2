@@ -1,0 +1,40 @@
+{
+  "en": [
+    "One hundred ninety-five thousand"
+  ], 
+  "zh": "十九万五千", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "十九", 
+      [
+        "One", 
+        "つ", 
+        "の一つ", 
+        "ひとつ", 
+        "つの"
+      ]
+    ], 
+    [
+      "十九", 
+      [
+        "百"
+      ]
+    ], 
+    [
+      "十九", 
+      [
+        "九〇から五〇〇〇", 
+        "九十から五千", 
+        "九十〜五千", 
+        "九〇〜五〇〇〇", 
+        "九〇から五〇〇〇まで"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Shíjiǔ wàn wǔqiān", 
+  "ja": [
+    "One百九〇から五〇〇〇", 
+    "One hyaku kyū rei kara go rei rei rei"
+  ]
+}

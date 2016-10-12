@@ -1,0 +1,49 @@
+{
+  "en": [
+    "Parents"
+  ], 
+  "zh": "家长", 
+  "en_related": [
+    [
+      "patriarch", 
+      [
+        "家长", 
+        "阅历"
+      ]
+    ], 
+    [
+      "parent of a child", 
+      [
+        "家长"
+      ]
+    ], 
+    [
+      "guardian of a child", 
+      [
+        "家长"
+      ]
+    ], 
+    [
+      "the head of the family", 
+      [
+        "家长"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "家长", 
+      [
+        "両親", 
+        "親", 
+        "の両親", 
+        "ペアレンツ"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Jiāzhǎng", 
+  "ja": [
+    "両親", 
+    "Ryōshin"
+  ]
+}

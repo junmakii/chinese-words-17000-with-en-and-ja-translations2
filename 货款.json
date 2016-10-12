@@ -1,0 +1,24 @@
+{
+  "en": [
+    "Payment"
+  ], 
+  "zh": "货款", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "货款", 
+      [
+        "支払い", 
+        "支払", 
+        "ペイメント", 
+        "お支払い方法", 
+        "入金"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Huòkuǎn", 
+  "ja": [
+    "支払い", 
+    "Shiharai"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "en": [
+    "Famous expert"
+  ], 
+  "zh": "名家", 
+  "en_related": [
+    [
+      "famous expert", 
+      [
+        "名家"
+      ]
+    ], 
+    [
+      "school of logicians", 
+      [
+        "名家"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "名家", 
+      [
+        "有名な", 
+        "で有名な", 
+        "に有名な", 
+        "の有名な"
+      ]
+    ], 
+    [
+      "名家", 
+      [
+        "専門家", 
+        "専門家の", 
+        "の専門家", 
+        "エキスパート"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Míngjiā", 
+  "ja": [
+    "有名な専門家", 
+    "Yūmeina senmonka"
+  ]
+}

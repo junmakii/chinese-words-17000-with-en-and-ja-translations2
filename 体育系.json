@@ -1,0 +1,34 @@
+{
+  "en": [
+    "Department of Physical Education"
+  ], 
+  "zh": "体育系", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "体育", 
+      [
+        "体育", 
+        "体育学", 
+        "体育授業", 
+        "の体育", 
+        "体育の"
+      ]
+    ], 
+    [
+      "体育 系", 
+      [
+        "科", 
+        "学科", 
+        "学部", 
+        "の部", 
+        "専攻"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Tǐyù xì", 
+  "ja": [
+    "体育科", 
+    "Taiiku-ka"
+  ]
+}

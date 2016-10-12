@@ -1,0 +1,38 @@
+{
+  "en": [
+    "bamboo forest"
+  ], 
+  "zh": "竹林", 
+  "en_related": [
+    [
+      "bamboo forest", 
+      [
+        "竹林"
+      ]
+    ], 
+    [
+      "bamboo grove", 
+      [
+        "竹林", 
+        "篁"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "竹林", 
+      [
+        "竹林", 
+        "竹林の", 
+        "竹の林", 
+        "の竹林", 
+        "竹の林です"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhúlín", 
+  "ja": [
+    "竹林", 
+    "Chikurin"
+  ]
+}

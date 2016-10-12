@@ -1,0 +1,30 @@
+{
+  "en": [
+    "More than two million kilograms"
+  ], 
+  "zh": "两百多万公斤", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "两百", 
+      [
+        "以上", 
+        "以上の", 
+        "を超える", 
+        "以上が", 
+        "より多く"
+      ]
+    ], 
+    [
+      "两百", 
+      [
+        "200万キロ"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Liǎng bǎi duō wàn gōngjīn", 
+  "ja": [
+    "以上200万キロ", 
+    "Ijō 200 man-kiro"
+  ]
+}

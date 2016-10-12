@@ -1,0 +1,23 @@
+{
+  "en": [
+    "Bookstore"
+  ], 
+  "zh": "书局", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "书局", 
+      [
+        "書店", 
+        "本屋", 
+        "の書店", 
+        "ブックストア"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Shūjú", 
+  "ja": [
+    "書店", 
+    "Shoten"
+  ]
+}

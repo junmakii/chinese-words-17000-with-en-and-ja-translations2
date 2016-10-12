@@ -1,0 +1,36 @@
+{
+  "en": [
+    "Full name"
+  ], 
+  "zh": "姓名", 
+  "en_related": [
+    [
+      "full name", 
+      [
+        "姓名", 
+        "全名"
+      ]
+    ], 
+    [
+      "name and surname", 
+      [
+        "姓名"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "姓名", 
+      [
+        "フルネーム", 
+        "氏名", 
+        "フルネーム"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Xìngmíng", 
+  "ja": [
+    "フルネーム", 
+    "Furunēmu"
+  ]
+}

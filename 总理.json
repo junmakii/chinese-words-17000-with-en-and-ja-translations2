@@ -1,0 +1,38 @@
+{
+  "en": [
+    "Prime Minister"
+  ], 
+  "zh": "总理", 
+  "en_related": [
+    [
+      "prime minister", 
+      [
+        "总理", 
+        "首相"
+      ]
+    ], 
+    [
+      "premier", 
+      [
+        "总理", 
+        "主席"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "总理", 
+      [
+        "首相", 
+        "の総理大臣", 
+        "内閣総理大臣", 
+        "宰相"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zǒnglǐ", 
+  "ja": [
+    "首相", 
+    "Shushō"
+  ]
+}

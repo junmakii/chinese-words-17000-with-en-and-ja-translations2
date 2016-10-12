@@ -1,0 +1,38 @@
+{
+  "en": [
+    "Staff member"
+  ], 
+  "zh": "职员", 
+  "en_related": [
+    [
+      "staff member", 
+      [
+        "职员"
+      ]
+    ], 
+    [
+      "office worker", 
+      [
+        "职员", 
+        "办事员"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "职员", 
+      [
+        "職員", 
+        "のスタッフ", 
+        "スタッフ・メンバー", 
+        "スタッフが", 
+        "たスタッフ"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhíyuán", 
+  "ja": [
+    "職員", 
+    "Shokuin"
+  ]
+}

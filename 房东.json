@@ -1,0 +1,37 @@
+{
+  "en": [
+    "landlord"
+  ], 
+  "zh": "房东", 
+  "en_related": [
+    [
+      "landlord", 
+      [
+        "房东"
+      ]
+    ], 
+    [
+      "landlady", 
+      [
+        "房东", 
+        "女房东"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "房东", 
+      [
+        "家主", 
+        "地主", 
+        "の家主", 
+        "主人"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Fángdōng", 
+  "ja": [
+    "家主", 
+    "Yanushi"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "en": [
+    "pesticide"
+  ], 
+  "zh": "农药", 
+  "en_related": [
+    [
+      "pesticide", 
+      [
+        "农药"
+      ]
+    ], 
+    [
+      "farm chemicals", 
+      [
+        "农药"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "农药", 
+      [
+        "農薬", 
+        "殺虫剤", 
+        "の農薬", 
+        "有害生物防除剤"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Nóngyào", 
+  "ja": [
+    "農薬", 
+    "Nōyaku"
+  ]
+}

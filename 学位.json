@@ -1,0 +1,48 @@
+{
+  "en": [
+    "Bachelor of Science"
+  ], 
+  "zh": "学位", 
+  "en_related": [
+    [
+      "degree", 
+      [
+        "度", 
+        "程度", 
+        "学位", 
+        "等级", 
+        "度数", 
+        "级"
+      ]
+    ], 
+    [
+      "academic degree", 
+      [
+        "学位"
+      ]
+    ], 
+    [
+      "educational level", 
+      [
+        "学位"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "学位", 
+      [
+        "度", 
+        "学位", 
+        "程度", 
+        "ディグリー", 
+        "卒"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Xuéwèi", 
+  "ja": [
+    "度", 
+    "Do"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "en": [
+    "Day moving average"
+  ], 
+  "zh": "日均线", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "日 均线", 
+      [
+        "日移動", 
+        "日の移動", 
+        "日間の移動"
+      ]
+    ], 
+    [
+      "均线", 
+      [
+        "平均", 
+        "平均し", 
+        "た平均", 
+        "の平均"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Rì jūnxiàn", 
+  "ja": [
+    "日移動平均", 
+    "Ni~Tsu idō heikin"
+  ]
+}

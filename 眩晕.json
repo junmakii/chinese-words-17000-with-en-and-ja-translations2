@@ -1,0 +1,37 @@
+{
+  "en": [
+    "dizziness"
+  ], 
+  "zh": "眩晕", 
+  "en_related": [
+    [
+      "dizziness", 
+      [
+        "头晕", 
+        "眩晕"
+      ]
+    ], 
+    [
+      "giddiness", 
+      [
+        "眩晕", 
+        "眼花"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "眩晕", 
+      [
+        "目まい", 
+        "眩暈", 
+        "めまい"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Xuànyūn", 
+  "ja": [
+    "目まい", 
+    "Memai"
+  ]
+}

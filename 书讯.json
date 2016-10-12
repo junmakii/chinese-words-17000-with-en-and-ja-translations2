@@ -1,0 +1,23 @@
+{
+  "en": [
+    "New Books"
+  ], 
+  "zh": "书讯", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "书讯", 
+      [
+        "新刊書", 
+        "の新刊書", 
+        "冊の新着書籍", 
+        "新しい本"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Shū xùn", 
+  "ja": [
+    "新刊書", 
+    "Shinkan-sho"
+  ]
+}

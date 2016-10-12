@@ -1,0 +1,31 @@
+{
+  "en": [
+    "Generate electricity"
+  ], 
+  "zh": "发电", 
+  "en_related": [
+    [
+      "generate electricity", 
+      [
+        "发电"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "发电", 
+      [
+        "電気を発生させます", 
+        "電気を発生させる", 
+        "発電する", 
+        "電気を生成", 
+        "電気を発生"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Fādiàn", 
+  "ja": [
+    "電気を発生させます", 
+    "Denki o hassei sa semasu"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "en": [
+    "Paid"
+  ], 
+  "zh": "有偿", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "有偿", 
+      [
+        "支払われました", 
+        "支払われた", 
+        "有料の", 
+        "支払った", 
+        "ペイド"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Yǒucháng", 
+  "ja": [
+    "支払われました", 
+    "Shiharawa remashita"
+  ]
+}

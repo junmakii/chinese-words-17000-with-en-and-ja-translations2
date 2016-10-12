@@ -1,0 +1,44 @@
+{
+  "en": [
+    "Emergency"
+  ], 
+  "zh": "应急", 
+  "en_related": [
+    [
+      "meet an urgent need", 
+      [
+        "应急"
+      ]
+    ], 
+    [
+      "meet an emergency", 
+      [
+        "应变", 
+        "应急"
+      ]
+    ], 
+    [
+      "meet a contingency", 
+      [
+        "应急"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "应急", 
+      [
+        "緊急", 
+        "緊急事態", 
+        "救急", 
+        "の緊急", 
+        "応急"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Yìngjí", 
+  "ja": [
+    "緊急", 
+    "Kinkyū"
+  ]
+}

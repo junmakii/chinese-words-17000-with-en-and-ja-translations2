@@ -1,0 +1,27 @@
+{
+  "en": [
+    "Incoming telegram"
+  ], 
+  "zh": "来电", 
+  "en_related": [
+    [
+      "incoming telegram", 
+      [
+        "来电"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "来电", 
+      [
+        "受信電報"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Láidiàn", 
+  "ja": [
+    "受信電報", 
+    "Jushin denpō"
+  ]
+}

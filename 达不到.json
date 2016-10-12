@@ -1,0 +1,37 @@
+{
+  "en": [
+    "Can not reach"
+  ], 
+  "zh": "达不到", 
+  "en_related": [
+    [
+      "be unable to achieve", 
+      [
+        "达不到"
+      ]
+    ], 
+    [
+      "cannot reach", 
+      [
+        "达不到"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "达 达 不到", 
+      [
+        "到達できません", 
+        "到達できない", 
+        "到達することはできません", 
+        "達することができない", 
+        "は到達できない"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Dá bù dào", 
+  "ja": [
+    "到達できません", 
+    "Tōtatsu dekimasen"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "en": [
+    "real estate"
+  ], 
+  "zh": "不动产", 
+  "en_related": [
+    [
+      "real estate", 
+      [
+        "房地产", 
+        "不动产", 
+        "田产"
+      ]
+    ], 
+    [
+      "immovable property", 
+      [
+        "不动产"
+      ]
+    ], 
+    [
+      "immovables", 
+      [
+        "不动产"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "不动产", 
+      [
+        "リアルエステート", 
+        "リアル・エステート", 
+        "た不動産", 
+        "の不動産"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Bùdòngchǎn", 
+  "ja": [
+    "リアルエステート", 
+    "Riaruesutēto"
+  ]
+}

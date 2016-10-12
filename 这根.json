@@ -1,0 +1,30 @@
+{
+  "en": [
+    "This is the root"
+  ], 
+  "zh": "这根", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "这 这 根", 
+      [
+        "これは、ルート"
+      ]
+    ], 
+    [
+      "这", 
+      [
+        "であります", 
+        "である", 
+        "です", 
+        "され", 
+        "ある"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhè gēn", 
+  "ja": [
+    "これは、ルートであります", 
+    "Kore wa, rūtodearimasu"
+  ]
+}

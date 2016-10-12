@@ -1,0 +1,46 @@
+{
+  "en": [
+    "Approval"
+  ], 
+  "zh": "核准", 
+  "en_related": [
+    [
+      "authorize", 
+      [
+        "授权", 
+        "批准", 
+        "核准", 
+        "准许", 
+        "合法化"
+      ]
+    ], 
+    [
+      "examine and approve", 
+      [
+        "核准"
+      ]
+    ], 
+    [
+      "check and approve", 
+      [
+        "核准"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "核准", 
+      [
+        "承認", 
+        "承認の", 
+        "の承認", 
+        "同意"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Hézhǔn", 
+  "ja": [
+    "承認", 
+    "Shōnin"
+  ]
+}

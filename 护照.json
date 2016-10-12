@@ -1,0 +1,38 @@
+{
+  "en": [
+    "passport"
+  ], 
+  "zh": "护照", 
+  "en_related": [
+    [
+      "passport", 
+      [
+        "护照"
+      ]
+    ], 
+    [
+      "identification", 
+      [
+        "护照", 
+        "简别", 
+        "身分证"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "护照", 
+      [
+        "パスポート", 
+        "Passportの", 
+        "たパスポート", 
+        "のPassport"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Hùzhào", 
+  "ja": [
+    "パスポート", 
+    "Pasupōto"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "en": [
+    "To speak to"
+  ], 
+  "zh": "讲讲话", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "讲", 
+      [
+        "に話を", 
+        "に話す", 
+        "と話す", 
+        "に話をする", 
+        "に話"
+      ]
+    ], 
+    [
+      "讲", 
+      [
+        "するには", 
+        "するに", 
+        "するため"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Jiǎng jiǎnghuà", 
+  "ja": [
+    "に話をするには", 
+    "Ni hanashi o suru ni wa"
+  ]
+}

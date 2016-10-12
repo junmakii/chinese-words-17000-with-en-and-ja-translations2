@@ -1,0 +1,36 @@
+{
+  "en": [
+    "assistant Manager"
+  ], 
+  "zh": "助理", 
+  "en_related": [
+    [
+      "assistant", 
+      [
+        "助理", 
+        "助手", 
+        "副", 
+        "帮手", 
+        "副手", 
+        "辅导员"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "助理", 
+      [
+        "アシスタント", 
+        "Assistantを", 
+        "のアシスタント", 
+        "Assistantの", 
+        "・アシスタント"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhùlǐ", 
+  "ja": [
+    "アシスタント", 
+    "Ashisutanto"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "en": [
+    "Get off work"
+  ], 
+  "zh": "下班", 
+  "en_related": [
+    [
+      "get off work", 
+      [
+        "下班"
+      ]
+    ], 
+    [
+      "come off work", 
+      [
+        "下班"
+      ]
+    ], 
+    [
+      "go off work", 
+      [
+        "下班"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "下班", 
+      [
+        "仕事を休みます"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Xiàbān", 
+  "ja": [
+    "仕事を休みます", 
+    "Shigoto o yasumimasu"
+  ]
+}

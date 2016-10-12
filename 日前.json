@@ -1,0 +1,35 @@
+{
+  "en": [
+    "A few days ago"
+  ], 
+  "zh": "日前", 
+  "en_related": [
+    [
+      "a few days ago", 
+      [
+        "日前"
+      ]
+    ], 
+    [
+      "the other day", 
+      [
+        "日前"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "日前", 
+      [
+        "数日前", 
+        "何日か前", 
+        "先日"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Rìqián", 
+  "ja": [
+    "数日前", 
+    "Sūjitsumae"
+  ]
+}

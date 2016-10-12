@@ -1,0 +1,44 @@
+{
+  "en": [
+    "playground"
+  ], 
+  "zh": "操场", 
+  "en_related": [
+    [
+      "playground", 
+      [
+        "操场", 
+        "运动场"
+      ]
+    ], 
+    [
+      "drill ground", 
+      [
+        "操场"
+      ]
+    ], 
+    [
+      "sports field", 
+      [
+        "操场"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "操场", 
+      [
+        "遊び場", 
+        "の遊び場", 
+        "プレイグランド", 
+        "子供の遊び場", 
+        "のプレイグラウンド"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Cāochǎng", 
+  "ja": [
+    "遊び場", 
+    "Asobiba"
+  ]
+}

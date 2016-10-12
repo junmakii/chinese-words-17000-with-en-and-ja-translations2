@@ -1,0 +1,23 @@
+{
+  "en": [
+    "Attended"
+  ], 
+  "zh": "就读", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "就读", 
+      [
+        "出席", 
+        "出席した", 
+        "出席し", 
+        "出席しまし"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Jiùdú", 
+  "ja": [
+    "出席", 
+    "Shusseki"
+  ]
+}

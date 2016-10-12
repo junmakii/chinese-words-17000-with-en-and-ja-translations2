@@ -1,0 +1,37 @@
+{
+  "en": [
+    "Art exhibition"
+  ], 
+  "zh": "画展", 
+  "en_related": [
+    [
+      "art exhibition", 
+      [
+        "画展"
+      ]
+    ], 
+    [
+      "picture show", 
+      [
+        "画展", 
+        "电影"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "画展", 
+      [
+        "美術展", 
+        "・アート展", 
+        "アート展", 
+        "美術展覧会"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Huàzhǎn", 
+  "ja": [
+    "美術展", 
+    "Bijutten"
+  ]
+}

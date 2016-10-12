@@ -1,0 +1,38 @@
+{
+  "en": [
+    "composer"
+  ], 
+  "zh": "作曲家", 
+  "en_related": [
+    [
+      "composer", 
+      [
+        "作曲家"
+      ]
+    ], 
+    [
+      "musician", 
+      [
+        "音乐家", 
+        "作曲家"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "作曲家", 
+      [
+        "作曲家", 
+        "作曲者", 
+        "の作曲", 
+        "Composerの", 
+        "の作曲家"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zuòqǔ jiā", 
+  "ja": [
+    "作曲家", 
+    "Sakkyokka"
+  ]
+}

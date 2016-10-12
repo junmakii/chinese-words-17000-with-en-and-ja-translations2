@@ -1,0 +1,29 @@
+{
+  "en": [
+    "These two"
+  ], 
+  "zh": "这两场", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "这", 
+      [
+        "これらの", 
+        "これら", 
+        "この", 
+        "このよう"
+      ]
+    ], 
+    [
+      "两场", 
+      [
+        "2"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhè liǎng chǎng", 
+  "ja": [
+    "これらの2", 
+    "Korera no 2"
+  ]
+}

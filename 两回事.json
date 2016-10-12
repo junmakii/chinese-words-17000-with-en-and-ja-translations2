@@ -1,0 +1,31 @@
+{
+  "en": [
+    "Two different things"
+  ], 
+  "zh": "两回事", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "两回事", 
+      [
+        "二つの異なる", 
+        "つの異なる"
+      ]
+    ], 
+    [
+      "两回事", 
+      [
+        "もの", 
+        "物事", 
+        "のもの", 
+        "なもの", 
+        "の事"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Liǎnghuíshì", 
+  "ja": [
+    "二つの異なるもの", 
+    "Futatsu no kotonaru mono"
+  ]
+}

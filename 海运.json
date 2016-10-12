@@ -1,0 +1,36 @@
+{
+  "en": [
+    "Ocean shipping"
+  ], 
+  "zh": "海运", 
+  "en_related": [
+    [
+      "ocean shipping", 
+      [
+        "海运"
+      ]
+    ], 
+    [
+      "sea transportation", 
+      [
+        "海运"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "海运", 
+      [
+        "海上輸送", 
+        "海運", 
+        "外航海運", 
+        "海洋の船積み"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Hǎiyùn", 
+  "ja": [
+    "海上輸送", 
+    "Kaijō yusō"
+  ]
+}

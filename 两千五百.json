@@ -1,0 +1,28 @@
+{
+  "en": [
+    "Two thousand five hundred"
+  ], 
+  "zh": "两千五百", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "两千", 
+      [
+        "二千", 
+        "万二千", 
+        "二万二千"
+      ]
+    ], 
+    [
+      "两千", 
+      [
+        "500"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Liǎng qiān wǔbǎi", 
+  "ja": [
+    "二千500", 
+    "Ni sen 500"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "en": [
+    "Interrupted"
+  ], 
+  "zh": "间断", 
+  "en_related": [
+    [
+      "gap", 
+      [
+        "裂口", 
+        "间断"
+      ]
+    ], 
+    [
+      "be interrupted", 
+      [
+        "间断"
+      ]
+    ], 
+    [
+      "be disconnected", 
+      [
+        "间断"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "间断", 
+      [
+        "中断", 
+        "割り込ま", 
+        "中断さ", 
+        "中断し", 
+        "に中断"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Jiànduàn", 
+  "ja": [
+    "中断", 
+    "Chūdan"
+  ]
+}

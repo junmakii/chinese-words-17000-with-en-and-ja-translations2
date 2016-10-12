@@ -1,0 +1,50 @@
+{
+  "en": [
+    "Vacations"
+  ], 
+  "zh": "休假", 
+  "en_related": [
+    [
+      "be on leave", 
+      [
+        "休假"
+      ]
+    ], 
+    [
+      "have a holiday", 
+      [
+        "放假", 
+        "休假"
+      ]
+    ], 
+    [
+      "be on furlough", 
+      [
+        "休假"
+      ]
+    ], 
+    [
+      "go on a vacation", 
+      [
+        "休假"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "休假", 
+      [
+        "バケーション", 
+        "ツアー", 
+        "航空券", 
+        "観光", 
+        "休暇"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Xiūjià", 
+  "ja": [
+    "バケーション", 
+    "Bakēshon"
+  ]
+}

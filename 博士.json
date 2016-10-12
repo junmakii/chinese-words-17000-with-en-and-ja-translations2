@@ -1,0 +1,46 @@
+{
+  "en": [
+    "Doctor"
+  ], 
+  "zh": "博士", 
+  "en_related": [
+    [
+      "doctor", 
+      [
+        "医生", 
+        "博士", 
+        "医", 
+        "大夫", 
+        "医师"
+      ]
+    ], 
+    [
+      "doctor of philosophy", 
+      [
+        "博士"
+      ]
+    ], 
+    [
+      "court academician", 
+      [
+        "博士"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "博士", 
+      [
+        "ドクター", 
+        "医師", 
+        "医者", 
+        "先生"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Bóshì", 
+  "ja": [
+    "ドクター", 
+    "Dokutā"
+  ]
+}

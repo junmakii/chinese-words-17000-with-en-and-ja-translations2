@@ -1,0 +1,38 @@
+{
+  "en": [
+    "Greetings"
+  ], 
+  "zh": "问候", 
+  "en_related": [
+    [
+      "extend greetings", 
+      [
+        "问候", 
+        "敬礼", 
+        "问好"
+      ]
+    ], 
+    [
+      "send one's respects", 
+      [
+        "问候"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "问候", 
+      [
+        "拝啓", 
+        "ごあいさつ", 
+        "ごあいさつ", 
+        "のGreetings"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Wènhòu", 
+  "ja": [
+    "拝啓", 
+    "Haikei"
+  ]
+}

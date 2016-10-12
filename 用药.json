@@ -1,0 +1,31 @@
+{
+  "en": [
+    "Medication"
+  ], 
+  "zh": "用药", 
+  "en_related": [
+    [
+      "medicate", 
+      [
+        "用药"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "用药", 
+      [
+        "薬物療法", 
+        "投薬", 
+        "薬物治療", 
+        "薬物", 
+        "薬剤"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Yòngyào", 
+  "ja": [
+    "薬物療法", 
+    "Yakubutsu ryōhō"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "en": [
+    "tea garden"
+  ], 
+  "zh": "茶园", 
+  "en_related": [
+    [
+      "tea garden", 
+      [
+        "茶园"
+      ]
+    ], 
+    [
+      "tea plantation", 
+      [
+        "茶园", 
+        "茶场"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "茶园", 
+      [
+        "茶園", 
+        "茶園の", 
+        "茶畑", 
+        "茶庭"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Cháyuán", 
+  "ja": [
+    "茶園", 
+    "Chaen"
+  ]
+}

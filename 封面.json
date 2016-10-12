@@ -1,0 +1,37 @@
+{
+  "en": [
+    "Front cover"
+  ], 
+  "zh": "封面", 
+  "en_related": [
+    [
+      "front cover", 
+      [
+        "封面", 
+        "封一"
+      ]
+    ], 
+    [
+      "title page", 
+      [
+        "封面"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "封面", 
+      [
+        "フロントカバー", 
+        "前面カバー", 
+        "表紙", 
+        "前カバー"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Fēngmiàn", 
+  "ja": [
+    "フロントカバー", 
+    "Furontokabā"
+  ]
+}

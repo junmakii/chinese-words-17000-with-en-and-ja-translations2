@@ -1,0 +1,38 @@
+{
+  "en": [
+    "Schoolboy"
+  ], 
+  "zh": "男生", 
+  "en_related": [
+    [
+      "schoolboy", 
+      [
+        "男生", 
+        "学童"
+      ]
+    ], 
+    [
+      "boy student", 
+      [
+        "男生"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "男生", 
+      [
+        "男子生徒", 
+        "スクールボーイ", 
+        "小学生", 
+        "小学生の", 
+        "の少年"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Nánshēng", 
+  "ja": [
+    "男子生徒", 
+    "Danshi seito"
+  ]
+}

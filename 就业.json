@@ -1,0 +1,40 @@
+{
+  "en": [
+    "Obtain employment"
+  ], 
+  "zh": "就业", 
+  "en_related": [
+    [
+      "obtain employment", 
+      [
+        "就业"
+      ]
+    ], 
+    [
+      "get a job", 
+      [
+        "就业"
+      ]
+    ], 
+    [
+      "start a career", 
+      [
+        "就业"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "就业", 
+      [
+        "職を得ます", 
+        "職を得る"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Jiùyè", 
+  "ja": [
+    "職を得ます", 
+    "Shoku o emasu"
+  ]
+}

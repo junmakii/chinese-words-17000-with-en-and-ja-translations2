@@ -1,0 +1,24 @@
+{
+  "en": [
+    "Department"
+  ], 
+  "zh": "学系", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "学", 
+      [
+        "省", 
+        "部門", 
+        "学部", 
+        "局", 
+        "学科"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Xué xì", 
+  "ja": [
+    "省", 
+    "Shō"
+  ]
+}

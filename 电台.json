@@ -1,0 +1,45 @@
+{
+  "en": [
+    "Broadcasting station"
+  ], 
+  "zh": "电台", 
+  "en_related": [
+    [
+      "broadcasting station", 
+      [
+        "电台", 
+        "台"
+      ]
+    ], 
+    [
+      "transceiver", 
+      [
+        "电台", 
+        "步话机", 
+        "收发报机"
+      ]
+    ], 
+    [
+      "transmitter-receiver", 
+      [
+        "电台"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "电台", 
+      [
+        "放送局", 
+        "する放送局", 
+        "の放送局", 
+        "た放送局"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Diàntái", 
+  "ja": [
+    "放送局", 
+    "Hōsōkyoku"
+  ]
+}

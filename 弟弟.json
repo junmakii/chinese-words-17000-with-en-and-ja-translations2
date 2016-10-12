@@ -1,0 +1,44 @@
+{
+  "en": [
+    "Little brother"
+  ], 
+  "zh": "弟弟", 
+  "en_related": [
+    [
+      "brother", 
+      [
+        "哥哥", 
+        "弟弟", 
+        "哥", 
+        "弟兄", 
+        "修士", 
+        "老兄"
+      ]
+    ], 
+    [
+      "younger brother", 
+      [
+        "弟弟", 
+        "弟", 
+        "兄弟"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "弟弟", 
+      [
+        "Brother", 
+        "兄", 
+        "弟", 
+        "兄弟", 
+        "の兄弟"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Dìdì", 
+  "ja": [
+    "Brother", 
+    "Burazā"
+  ]
+}

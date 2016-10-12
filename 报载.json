@@ -1,0 +1,29 @@
+{
+  "en": [
+    "According to newspaper reports"
+  ], 
+  "zh": "报载", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "报载", 
+      [
+        "新聞報道"
+      ]
+    ], 
+    [
+      "报载", 
+      [
+        "によると、", 
+        "によると", 
+        "によれば", 
+        "による"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Bào zài", 
+  "ja": [
+    "新聞報道によると、", 
+    "Shinbun hōdō ni yoru to,"
+  ]
+}

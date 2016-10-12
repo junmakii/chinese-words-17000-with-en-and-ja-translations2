@@ -1,0 +1,36 @@
+{
+  "en": [
+    "One hundred fifty billion yuan"
+  ], 
+  "zh": "一千五百亿元", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "一千", 
+      [
+        "One", 
+        "つ", 
+        "の一つ", 
+        "ひとつ", 
+        "つの"
+      ]
+    ], 
+    [
+      "一千", 
+      [
+        "百"
+      ]
+    ], 
+    [
+      "一千", 
+      [
+        "500億元"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Yīqiān wǔbǎi yì yuán", 
+  "ja": [
+    "One百500億元", 
+    "One hyaku 500 oku-gen"
+  ]
+}

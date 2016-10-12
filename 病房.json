@@ -1,0 +1,36 @@
+{
+  "en": [
+    "Ward"
+  ], 
+  "zh": "病房", 
+  "en_related": [
+    [
+      "sickroom", 
+      [
+        "病房"
+      ]
+    ], 
+    [
+      "ward of a hospital", 
+      [
+        "病房"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "病房", 
+      [
+        "ウォード", 
+        "病棟", 
+        "Wardの", 
+        "ワード"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Bìngfáng", 
+  "ja": [
+    "ウォード", 
+    "U~ōdo"
+  ]
+}

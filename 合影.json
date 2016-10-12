@@ -1,0 +1,37 @@
+{
+  "en": [
+    "group photo"
+  ], 
+  "zh": "合影", 
+  "en_related": [
+    [
+      "group photo", 
+      [
+        "合影"
+      ]
+    ], 
+    [
+      "joint photo", 
+      [
+        "合影"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "合影", 
+      [
+        "グループ写真", 
+        "集合写真", 
+        "の集合写真", 
+        "団体写真", 
+        "な集合写真"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Héyǐng", 
+  "ja": [
+    "グループ写真", 
+    "Gurūpu shashin"
+  ]
+}

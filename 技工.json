@@ -1,0 +1,43 @@
+{
+  "en": [
+    "Skilled worker"
+  ], 
+  "zh": "技工", 
+  "en_related": [
+    [
+      "skilled worker", 
+      [
+        "技工"
+      ]
+    ], 
+    [
+      "artificer", 
+      [
+        "技工", 
+        "发明者"
+      ]
+    ], 
+    [
+      "engineman", 
+      [
+        "技工"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "技工", 
+      [
+        "熟練労働者", 
+        "熟練工", 
+        "当業者であれば", 
+        "当業者は"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Jìgōng", 
+  "ja": [
+    "熟練労働者", 
+    "Jukurenrōdō-sha"
+  ]
+}

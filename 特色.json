@@ -1,0 +1,54 @@
+{
+  "en": [
+    "Characteristic"
+  ], 
+  "zh": "特色", 
+  "en_related": [
+    [
+      "characteristic", 
+      [
+        "特性", 
+        "特征", 
+        "特点", 
+        "特色", 
+        "特有", 
+        "性质"
+      ]
+    ], 
+    [
+      "distinguishing feature", 
+      [
+        "特色", 
+        "特点"
+      ]
+    ], 
+    [
+      "characteristical", 
+      [
+        "特征", 
+        "特性", 
+        "特色", 
+        "特点", 
+        "特有", 
+        "属性"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "特色", 
+      [
+        "特性", 
+        "特徴", 
+        "固有", 
+        "特徴的", 
+        "の特性"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Tèsè", 
+  "ja": [
+    "特性", 
+    "Tokusei"
+  ]
+}

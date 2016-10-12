@@ -1,0 +1,37 @@
+{
+  "en": [
+    "Consultation"
+  ], 
+  "zh": "诊", 
+  "en_related": [
+    [
+      "examine medically", 
+      [
+        "诊"
+      ]
+    ], 
+    [
+      "treat medically", 
+      [
+        "诊"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "诊", 
+      [
+        "相談", 
+        "協議", 
+        "の相談", 
+        "の協議", 
+        "コンサルテーション"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhěn", 
+  "ja": [
+    "相談", 
+    "Sōdan"
+  ]
+}

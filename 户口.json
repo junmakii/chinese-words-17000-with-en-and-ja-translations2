@@ -1,0 +1,29 @@
+{
+  "en": [
+    "Account"
+  ], 
+  "zh": "户口", 
+  "en_related": [
+    [
+      "registered residence", 
+      [
+        "户口"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "户口", 
+      [
+        "アカウント", 
+        "のアカウント", 
+        "たアカウント"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Hùkǒu", 
+  "ja": [
+    "アカウント", 
+    "Akaunto"
+  ]
+}

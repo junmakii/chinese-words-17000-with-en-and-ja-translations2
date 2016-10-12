@@ -1,0 +1,24 @@
+{
+  "en": [
+    "Retrieve"
+  ], 
+  "zh": "找回", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "找回", 
+      [
+        "検索します", 
+        "検索する", 
+        "リトリーブ", 
+        "取り出す", 
+        "取得"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhǎo huí", 
+  "ja": [
+    "検索します", 
+    "Kensaku shimasu"
+  ]
+}

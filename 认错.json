@@ -1,0 +1,63 @@
+{
+  "en": [
+    "Acknowledge a mistake"
+  ], 
+  "zh": "认错", 
+  "en_related": [
+    [
+      "acknowledge a mistake", 
+      [
+        "认错", 
+        "赔错"
+      ]
+    ], 
+    [
+      "admit a fault", 
+      [
+        "认错"
+      ]
+    ], 
+    [
+      "make an apology", 
+      [
+        "道歉", 
+        "赔礼", 
+        "认错"
+      ]
+    ], 
+    [
+      "offer an apology", 
+      [
+        "赔礼", 
+        "认错"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "认错", 
+      [
+        "間違い", 
+        "ミス", 
+        "のミス", 
+        "手違い", 
+        "ある間違い"
+      ]
+    ], 
+    [
+      "认错", 
+      [
+        "を認めます", 
+        "を認める", 
+        "はご了承", 
+        "を承認し", 
+        "を確認応答"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Rèncuò", 
+  "ja": [
+    "間違いを認めます", 
+    "Machigai o mitomemasu"
+  ]
+}

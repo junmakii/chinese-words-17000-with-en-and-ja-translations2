@@ -1,0 +1,42 @@
+{
+  "en": [
+    "farmland"
+  ], 
+  "zh": "农田", 
+  "en_related": [
+    [
+      "farmland", 
+      [
+        "农田", 
+        "田地", 
+        "畴"
+      ]
+    ], 
+    [
+      "cultivated field", 
+      [
+        "农田", 
+        "耕地", 
+        "畲", 
+        "畴", 
+        "畲地"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "农田", 
+      [
+        "農地", 
+        "Farmlandの", 
+        "な農地", 
+        "の農地"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Nóngtián", 
+  "ja": [
+    "農地", 
+    "Nōchi"
+  ]
+}

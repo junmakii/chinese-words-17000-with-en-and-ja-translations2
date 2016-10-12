@@ -1,0 +1,24 @@
+{
+  "en": [
+    "Not pick"
+  ], 
+  "zh": "摘不到", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "摘 不到", 
+      [
+        "選択しません", 
+        "選択しない", 
+        "選択しないで", 
+        "取得しませ", 
+        "取得されませ"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhāi bù dào", 
+  "ja": [
+    "選択しません", 
+    "Sentaku shimasen"
+  ]
+}

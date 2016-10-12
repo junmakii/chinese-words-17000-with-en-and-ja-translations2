@@ -1,0 +1,36 @@
+{
+  "en": [
+    "iron ore"
+  ], 
+  "zh": "铁矿", 
+  "en_related": [
+    [
+      "iron ore", 
+      [
+        "铁矿"
+      ]
+    ], 
+    [
+      "iron mine", 
+      [
+        "铁矿"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "铁矿", 
+      [
+        "鉄鉱石", 
+        "鉄鉱", 
+        "の鉄鉱石", 
+        "鉄鉱石"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Tiě kuàng", 
+  "ja": [
+    "鉄鉱石", 
+    "Tetsukōseki"
+  ]
+}

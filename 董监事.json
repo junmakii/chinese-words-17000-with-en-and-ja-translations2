@@ -1,0 +1,33 @@
+{
+  "en": [
+    "Directors and supervisors"
+  ], 
+  "zh": "董监事", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "董", 
+      [
+        "取締役", 
+        "の取締役", 
+        "ディレクター", 
+        "ディレクターズ"
+      ]
+    ], 
+    [
+      "董 监事", 
+      [
+        "および監査役", 
+        "とスーパーバイザ", 
+        "およびスーパバイザ", 
+        "・監督者", 
+        "およびスーパーバイザ"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Dǒng jiānshì", 
+  "ja": [
+    "取締役および監査役", 
+    "Torishimariyaku oyobi kansa-yaku"
+  ]
+}

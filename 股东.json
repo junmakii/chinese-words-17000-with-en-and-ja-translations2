@@ -1,0 +1,53 @@
+{
+  "en": [
+    "shareholder"
+  ], 
+  "zh": "股东", 
+  "en_related": [
+    [
+      "shareholder", 
+      [
+        "股东"
+      ]
+    ], 
+    [
+      "stockholder", 
+      [
+        "股东"
+      ]
+    ], 
+    [
+      "partner", 
+      [
+        "伙伴", 
+        "搭档", 
+        "同伴", 
+        "伴", 
+        "股东", 
+        "朋友"
+      ]
+    ], 
+    [
+      "dormant partner", 
+      [
+        "股东"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "股东", 
+      [
+        "株主", 
+        "株主で", 
+        "の株主", 
+        "株主"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Gǔdōng", 
+  "ja": [
+    "株主", 
+    "Kabunushi"
+  ]
+}

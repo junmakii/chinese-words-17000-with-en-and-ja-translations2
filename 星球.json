@@ -1,0 +1,38 @@
+{
+  "en": [
+    "Planet"
+  ], 
+  "zh": "星球", 
+  "en_related": [
+    [
+      "celestial body", 
+      [
+        "星体", 
+        "星球"
+      ]
+    ], 
+    [
+      "heavenly body", 
+      [
+        "星球"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "星球", 
+      [
+        "惑星", 
+        "地球", 
+        "の惑星", 
+        "・プラネット", 
+        "プラネット"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Xīngqiú", 
+  "ja": [
+    "惑星", 
+    "Wakusei"
+  ]
+}

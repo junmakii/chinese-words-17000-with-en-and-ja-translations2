@@ -1,0 +1,37 @@
+{
+  "en": [
+    "electricity"
+  ], 
+  "zh": "电力", 
+  "en_related": [
+    [
+      "electricity", 
+      [
+        "电力", 
+        "电"
+      ]
+    ], 
+    [
+      "electric power", 
+      [
+        "电力"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "电力", 
+      [
+        "電気", 
+        "電力", 
+        "の電力", 
+        "の電気"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Diànlì", 
+  "ja": [
+    "電気", 
+    "Denki"
+  ]
+}

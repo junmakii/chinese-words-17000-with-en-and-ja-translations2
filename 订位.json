@@ -1,0 +1,24 @@
+{
+  "en": [
+    "book"
+  ], 
+  "zh": "订位", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "订", 
+      [
+        "予約", 
+        "ご予約", 
+        "に予約さ", 
+        "のご予約", 
+        "Booking〜の"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Dìng wèi", 
+  "ja": [
+    "予約", 
+    "Yoyaku"
+  ]
+}

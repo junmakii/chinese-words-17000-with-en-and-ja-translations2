@@ -1,0 +1,36 @@
+{
+  "en": [
+    "Phone"
+  ], 
+  "zh": "打电话", 
+  "en_related": [
+    [
+      "phone", 
+      [
+        "打电话"
+      ]
+    ], 
+    [
+      "make a telephone call", 
+      [
+        "打电话"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "打电话", 
+      [
+        "電話", 
+        "Phoneの", 
+        "の電話", 
+        "フォン"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Dǎ diànhuà", 
+  "ja": [
+    "電話", 
+    "Denwa"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "en": [
+    "It is appropriate"
+  ], 
+  "zh": "适不适合", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "适", 
+      [
+        "それは", 
+        "これは", 
+        "これ"
+      ]
+    ], 
+    [
+      "适", 
+      [
+        "適切です", 
+        "適切である", 
+        "適切です", 
+        "適切で", 
+        "適しています"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Shì bù shìhé", 
+  "ja": [
+    "それは適切です", 
+    "Sore wa tekisetsudesu"
+  ]
+}

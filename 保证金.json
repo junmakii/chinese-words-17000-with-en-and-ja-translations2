@@ -1,0 +1,61 @@
+{
+  "en": [
+    "Security deposit"
+  ], 
+  "zh": "保证金", 
+  "en_related": [
+    [
+      "security deposit", 
+      [
+        "保证金"
+      ]
+    ], 
+    [
+      "earnest money", 
+      [
+        "保证金", 
+        "定金"
+      ]
+    ], 
+    [
+      "bail", 
+      [
+        "保释", 
+        "保证金", 
+        "保证人", 
+        "抵押品"
+      ]
+    ], 
+    [
+      "caution money", 
+      [
+        "保证金"
+      ]
+    ], 
+    [
+      "recognizance", 
+      [
+        "保证金", 
+        "承认", 
+        "保释金", 
+        "保证书"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "保证金", 
+      [
+        "敷金", 
+        "保証金", 
+        "の保証金", 
+        "セキュリティデポジット"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Bǎozhèngjīn", 
+  "ja": [
+    "敷金", 
+    "Shikikin"
+  ]
+}

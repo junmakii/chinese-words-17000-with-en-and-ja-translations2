@@ -1,0 +1,42 @@
+{
+  "en": [
+    "restaurant"
+  ], 
+  "zh": "餐厅", 
+  "en_related": [
+    [
+      "restaurant", 
+      [
+        "餐厅", 
+        "餐馆", 
+        "酒家", 
+        "饭店", 
+        "饭馆", 
+        "菜馆"
+      ]
+    ], 
+    [
+      "dining hall", 
+      [
+        "食堂", 
+        "餐厅"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "餐厅", 
+      [
+        "レストラン", 
+        "のレストラン", 
+        "Restaurantの", 
+        "を読もう"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Cāntīng", 
+  "ja": [
+    "レストラン", 
+    "Resutoran"
+  ]
+}

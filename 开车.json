@@ -1,0 +1,31 @@
+{
+  "en": [
+    "Drive a car"
+  ], 
+  "zh": "开车", 
+  "en_related": [
+    [
+      "drive a car", 
+      [
+        "开车"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "开车", 
+      [
+        "車を運転します", 
+        "車を運転する", 
+        "の車を運転", 
+        "自動車を運転", 
+        "自動車を運転する"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Kāichē", 
+  "ja": [
+    "車を運転します", 
+    "Kuruma o unten shimasu"
+  ]
+}

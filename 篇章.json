@@ -1,0 +1,40 @@
+{
+  "en": [
+    "Chapter"
+  ], 
+  "zh": "篇章", 
+  "en_related": [
+    [
+      "writings", 
+      [
+        "文章", 
+        "篇章", 
+        "笔墨", 
+        "笔札"
+      ]
+    ], 
+    [
+      "sections and chapters", 
+      [
+        "篇章"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "篇章", 
+      [
+        "章", 
+        "チャプター", 
+        "の章", 
+        "本章", 
+        "この章"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Piānzhāng", 
+  "ja": [
+    "章", 
+    "Fumi"
+  ]
+}

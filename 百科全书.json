@@ -1,0 +1,37 @@
+{
+  "en": [
+    "encyclopedia"
+  ], 
+  "zh": "百科全书", 
+  "en_related": [
+    [
+      "encyclopedia", 
+      [
+        "百科全书"
+      ]
+    ], 
+    [
+      "encyclopaedia", 
+      [
+        "百科全书"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "百科全书", 
+      [
+        "百科事典", 
+        "エンサイクロペディア", 
+        "事典", 
+        "図鑑", 
+        "の百科事典"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Bǎikē quánshū", 
+  "ja": [
+    "百科事典", 
+    "Hakkajiten"
+  ]
+}

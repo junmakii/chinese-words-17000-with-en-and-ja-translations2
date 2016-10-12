@@ -1,0 +1,27 @@
+{
+  "en": [
+    "Last week,"
+  ], 
+  "zh": "上週", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "上周", 
+      [
+        "先週", 
+        "は先週"
+      ]
+    ], 
+    [
+      "上周", 
+      [
+        "、"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Shàng zhōu", 
+  "ja": [
+    "先週、", 
+    "Senshū,"
+  ]
+}

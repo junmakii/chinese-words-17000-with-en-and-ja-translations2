@@ -1,0 +1,49 @@
+{
+  "en": [
+    "Compensation"
+  ], 
+  "zh": "索赔", 
+  "en_related": [
+    [
+      "claimant", 
+      [
+        "索赔"
+      ]
+    ], 
+    [
+      "compensation", 
+      [
+        "索赔", 
+        "赔偿金"
+      ]
+    ], 
+    [
+      "damages", 
+      [
+        "索赔"
+      ]
+    ], 
+    [
+      "claimer", 
+      [
+        "索赔"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "索赔", 
+      [
+        "補償", 
+        "報酬", 
+        "補正", 
+        "の補償"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Suǒpéi", 
+  "ja": [
+    "補償", 
+    "Hoshō"
+  ]
+}

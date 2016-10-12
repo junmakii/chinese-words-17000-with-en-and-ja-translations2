@@ -1,0 +1,40 @@
+{
+  "en": [
+    "relatively"
+  ], 
+  "zh": "相对", 
+  "en_related": [
+    [
+      "relatively", 
+      [
+        "相对", 
+        "比较", 
+        "较"
+      ]
+    ], 
+    [
+      "comparatively", 
+      [
+        "比较", 
+        "相对", 
+        "较"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "相对", 
+      [
+        "相対的に", 
+        "比較的に", 
+        "が比較的", 
+        "に比較的"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Xiāngduì", 
+  "ja": [
+    "相対的に", 
+    "Sōtaitekini"
+  ]
+}

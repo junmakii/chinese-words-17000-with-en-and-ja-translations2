@@ -1,0 +1,32 @@
+{
+  "en": [
+    "participant"
+  ], 
+  "zh": "参加者", 
+  "en_related": [
+    [
+      "participant", 
+      [
+        "参加者", 
+        "参与者", 
+        "加入者", 
+        "出場者"
+      ]
+    ], 
+    [
+      "entrant", 
+      [
+        "入会者", 
+        "加入者", 
+        "参加者"
+      ]
+    ]
+  ], 
+  "ja_related": [], 
+  "zh_pronoun": "Sankasha", 
+  "ja": [
+    "Synonyms", 
+    "    noun", 
+    "        - 参与者"
+  ]
+}

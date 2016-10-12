@@ -1,0 +1,38 @@
+{
+  "en": [
+    "Corporation"
+  ], 
+  "zh": "法人", 
+  "en_related": [
+    [
+      "corporation", 
+      [
+        "株式会社", 
+        "法人", 
+        "会社", 
+        "コーポレーション", 
+        "営団", 
+        "公司"
+      ]
+    ], 
+    [
+      "juridical person", 
+      [
+        "法人", 
+        "公法人"
+      ]
+    ], 
+    [
+      "corporate body", 
+      [
+        "法人"
+      ]
+    ]
+  ], 
+  "ja_related": [], 
+  "zh_pronoun": "Hōjin", 
+  "ja": [
+    "See also", 
+    "    人, 法, 財団法人, 社団法人, 医療法人, 公益法人, 宗教法人, 特殊法人"
+  ]
+}

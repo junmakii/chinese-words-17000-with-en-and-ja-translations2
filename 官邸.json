@@ -1,0 +1,38 @@
+{
+  "en": [
+    "official residence"
+  ], 
+  "zh": "官邸", 
+  "en_related": [
+    [
+      "official residence", 
+      [
+        "官邸", 
+        "府"
+      ]
+    ], 
+    [
+      "official mansion", 
+      [
+        "官邸"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "官邸", 
+      [
+        "官邸", 
+        "公邸", 
+        "官舎", 
+        "公舎", 
+        "公館"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Guāndǐ", 
+  "ja": [
+    "官邸", 
+    "Kantei"
+  ]
+}

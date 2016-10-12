@@ -1,0 +1,32 @@
+{
+  "en": [
+    "Number of people"
+  ], 
+  "zh": "人数", 
+  "en_related": [
+    [
+      "number of people", 
+      [
+        "人数", 
+        "人头"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "人数", 
+      [
+        "人々の数", 
+        "多くの人々", 
+        "た人々の数", 
+        "いる人々の数", 
+        "人の数"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Rénshù", 
+  "ja": [
+    "人々の数", 
+    "Hitobito no kazu"
+  ]
+}

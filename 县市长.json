@@ -1,0 +1,31 @@
+{
+  "en": [
+    "County and city"
+  ], 
+  "zh": "县市长", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "县市长", 
+      [
+        "県", 
+        "郡", 
+        "ている郡", 
+        "いる郡", 
+        "の郡"
+      ]
+    ], 
+    [
+      "县市长", 
+      [
+        "と市", 
+        "とシティ"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Xiàn shì zhǎng", 
+  "ja": [
+    "県と市", 
+    "Ken to ichi"
+  ]
+}

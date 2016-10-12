@@ -1,0 +1,37 @@
+{
+  "en": [
+    "Heavy rain"
+  ], 
+  "zh": "豪雨", 
+  "en_related": [
+    [
+      "heavy rain", 
+      [
+        "大雨", 
+        "豪雨", 
+        "気違い雨"
+      ]
+    ], 
+    [
+      "downpour", 
+      [
+        "土砂降り", 
+        "豪雨"
+      ]
+    ], 
+    [
+      "cloudburst", 
+      [
+        "土砂降り", 
+        "豪雨"
+      ]
+    ]
+  ], 
+  "ja_related": [], 
+  "zh_pronoun": "Gōu", 
+  "ja": [
+    "Synonyms", 
+    "    noun", 
+    "        - 大雨, 土砂降り"
+  ]
+}

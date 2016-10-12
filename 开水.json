@@ -1,0 +1,40 @@
+{
+  "en": [
+    "boiling water"
+  ], 
+  "zh": "开水", 
+  "en_related": [
+    [
+      "boiling water", 
+      [
+        "开水", 
+        "汤", 
+        "熟水"
+      ]
+    ], 
+    [
+      "boiled water", 
+      [
+        "开水", 
+        "茶水", 
+        "熟水"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "开水", 
+      [
+        "沸騰したお湯", 
+        "沸騰水", 
+        "熱湯", 
+        "の沸騰水"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Kāishuǐ", 
+  "ja": [
+    "沸騰したお湯", 
+    "Futtō shita oyu"
+  ]
+}

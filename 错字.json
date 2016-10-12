@@ -1,0 +1,44 @@
+{
+  "en": [
+    "Misprint"
+  ], 
+  "zh": "错字", 
+  "en_related": [
+    [
+      "misprint", 
+      [
+        "错字", 
+        "误排"
+      ]
+    ], 
+    [
+      "wrongly written character", 
+      [
+        "错字"
+      ]
+    ], 
+    [
+      "incorrect character", 
+      [
+        "错字"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "错字", 
+      [
+        "誤植", 
+        "刷り損なう", 
+        "表記ミス", 
+        "表記ミスで", 
+        "ミスプリント"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Cuòzì", 
+  "ja": [
+    "誤植", 
+    "Goshoku"
+  ]
+}

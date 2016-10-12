@@ -1,0 +1,39 @@
+{
+  "en": [
+    "restraint"
+  ], 
+  "zh": "克制", 
+  "en_related": [
+    [
+      "restraint", 
+      [
+        "克制", 
+        "限制"
+      ]
+    ], 
+    [
+      "self-control", 
+      [
+        "克制", 
+        "自制"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "克制", 
+      [
+        "拘束", 
+        "レストレイント", 
+        "制限", 
+        "抑制", 
+        "のRestraint"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Kèzhì", 
+  "ja": [
+    "拘束", 
+    "Kōsoku"
+  ]
+}

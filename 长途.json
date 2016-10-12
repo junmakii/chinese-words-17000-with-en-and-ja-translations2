@@ -1,0 +1,37 @@
+{
+  "en": [
+    "long haul"
+  ], 
+  "zh": "长途", 
+  "en_related": [
+    [
+      "long distance", 
+      [
+        "长途", 
+        "远程"
+      ]
+    ], 
+    [
+      "long trip", 
+      [
+        "长途"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "长途", 
+      [
+        "長距離", 
+        "長い距離", 
+        "遠距離", 
+        "遠方"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Chángtú", 
+  "ja": [
+    "長距離", 
+    "Chōkyori"
+  ]
+}

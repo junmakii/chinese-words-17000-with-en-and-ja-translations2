@@ -1,0 +1,36 @@
+{
+  "en": [
+    "Special topic"
+  ], 
+  "zh": "专题", 
+  "en_related": [
+    [
+      "special subject", 
+      [
+        "专题"
+      ]
+    ], 
+    [
+      "special topic", 
+      [
+        "专题"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "专题", 
+      [
+        "特集", 
+        "特集", 
+        "小特集", 
+        "特殊な話題"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhuāntí", 
+  "ja": [
+    "特集", 
+    "Tokushū"
+  ]
+}

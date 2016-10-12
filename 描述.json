@@ -1,0 +1,39 @@
+{
+  "en": [
+    "description"
+  ], 
+  "zh": "描述", 
+  "en_related": [
+    [
+      "description", 
+      [
+        "描述", 
+        "描写", 
+        "色"
+      ]
+    ], 
+    [
+      "characterization", 
+      [
+        "描述"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "描述", 
+      [
+        "説明", 
+        "記述", 
+        "内容", 
+        "の記述", 
+        "概要"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Miáoshù", 
+  "ja": [
+    "説明", 
+    "Setsumei"
+  ]
+}

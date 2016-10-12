@@ -1,0 +1,31 @@
+{
+  "en": [
+    "send troops"
+  ], 
+  "zh": "出兵", 
+  "en_related": [
+    [
+      "send troops", 
+      [
+        "出兵"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "出兵", 
+      [
+        "部隊を派遣します", 
+        "部隊を派遣する", 
+        "兵を送る", 
+        "派兵する", 
+        "出兵する"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Chūbīng", 
+  "ja": [
+    "部隊を派遣します", 
+    "Butai o haken shimasu"
+  ]
+}

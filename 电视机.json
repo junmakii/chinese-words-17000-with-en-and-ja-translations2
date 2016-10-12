@@ -1,0 +1,36 @@
+{
+  "en": [
+    "TV set"
+  ], 
+  "zh": "电视机", 
+  "en_related": [
+    [
+      "television", 
+      [
+        "电视", 
+        "电视机"
+      ]
+    ], 
+    [
+      "television set", 
+      [
+        "电视机"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "电视机", 
+      [
+        "テレビ", 
+        "のTV", 
+        "のテレビ"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Diànshì jī", 
+  "ja": [
+    "テレビ", 
+    "Terebi"
+  ]
+}

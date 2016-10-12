@@ -1,0 +1,22 @@
+{
+  "en": [
+    "This line"
+  ], 
+  "zh": "这行", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "这 行", 
+      [
+        "この行", 
+        "この行は", 
+        "この直線"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhè xíng", 
+  "ja": [
+    "この行", 
+    "Kono gyō"
+  ]
+}

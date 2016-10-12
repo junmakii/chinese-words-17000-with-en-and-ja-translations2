@@ -1,0 +1,32 @@
+{
+  "en": [
+    "Domestics shop"
+  ], 
+  "zh": "国货店", 
+  "en_related": [], 
+  "ja_related": [
+    [
+      "国货", 
+      [
+        "家事", 
+        "使用人", 
+        "国産", 
+        "のdomestics"
+      ]
+    ], 
+    [
+      "国货 店", 
+      [
+        "ショップ", 
+        "店", 
+        "屋", 
+        "工場"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Guóhuò diàn", 
+  "ja": [
+    "家事ショップ", 
+    "Kaji shoppu"
+  ]
+}

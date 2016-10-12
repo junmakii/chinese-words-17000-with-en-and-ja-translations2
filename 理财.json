@@ -1,0 +1,39 @@
+{
+  "en": [
+    "Conduct financial transactions"
+  ], 
+  "zh": "理财", 
+  "en_related": [
+    [
+      "manage finances", 
+      [
+        "理财"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "理财", 
+      [
+        "金融", 
+        "の財務", 
+        "の金融"
+      ]
+    ], 
+    [
+      "理财", 
+      [
+        "取引を行います", 
+        "取引を行う", 
+        "トランザクションを実行", 
+        "取引を行い", 
+        "トランザクションの実行"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Lǐcái", 
+  "ja": [
+    "金融取引を行います", 
+    "Kin'yū torihiki o okonaimasu"
+  ]
+}

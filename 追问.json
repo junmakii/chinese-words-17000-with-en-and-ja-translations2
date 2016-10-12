@@ -1,0 +1,47 @@
+{
+  "en": [
+    "Inquiry"
+  ], 
+  "zh": "追问", 
+  "en_related": [
+    [
+      "examine minutely", 
+      [
+        "追问"
+      ]
+    ], 
+    [
+      "question closely", 
+      [
+        "追问", 
+        "逼问", 
+        "诘", 
+        "诘问", 
+        "责"
+      ]
+    ], 
+    [
+      "make a detailed inquiry", 
+      [
+        "追问"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "追问", 
+      [
+        "お問い合わせ", 
+        "問い合わせ", 
+        "お問合せ", 
+        "問合せ", 
+        "インクワイアリ"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhuīwèn", 
+  "ja": [
+    "お問い合わせ", 
+    "O toiawase"
+  ]
+}

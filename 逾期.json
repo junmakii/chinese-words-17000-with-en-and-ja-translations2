@@ -1,0 +1,24 @@
+{
+  "en": [
+    "Overdue"
+  ], 
+  "zh": "逾期", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "逾期", 
+      [
+        "期限を過ぎました", 
+        "期限を過ぎた", 
+        "未払いの", 
+        "期限の過ぎ", 
+        "延滞し"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Yúqí", 
+  "ja": [
+    "期限を過ぎました", 
+    "Kigen o sugimashita"
+  ]
+}

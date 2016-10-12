@@ -1,0 +1,37 @@
+{
+  "en": [
+    "not necessarily"
+  ], 
+  "zh": "未必", 
+  "en_related": [
+    [
+      "not necessarily", 
+      [
+        "未必", 
+        "不见得"
+      ]
+    ], 
+    [
+      "not sure", 
+      [
+        "未必"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "未必", 
+      [
+        "必ずしもそうでありません", 
+        "必ずしもそうでない", 
+        "ある必要はない", 
+        "は限らない"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Wèibì", 
+  "ja": [
+    "必ずしもそうでありません", 
+    "Kanarazushimo sōdearimasen"
+  ]
+}

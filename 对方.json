@@ -1,0 +1,56 @@
+{
+  "en": [
+    "other side"
+  ], 
+  "zh": "对方", 
+  "en_related": [
+    [
+      "other side", 
+      [
+        "对方"
+      ]
+    ], 
+    [
+      "counterpart", 
+      [
+        "对方", 
+        "副本"
+      ]
+    ], 
+    [
+      "opposite side", 
+      [
+        "对方"
+      ]
+    ], 
+    [
+      "receiving party", 
+      [
+        "对方"
+      ]
+    ], 
+    [
+      "other person involved", 
+      [
+        "对方"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "对方", 
+      [
+        "もう一方の側", 
+        "反対側", 
+        "向こう側", 
+        "他方側", 
+        "他方の側"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Duìfāng", 
+  "ja": [
+    "もう一方の側", 
+    "Mō ippō no soba"
+  ]
+}

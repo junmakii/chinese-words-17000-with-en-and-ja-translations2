@@ -1,0 +1,35 @@
+{
+  "en": [
+    "golf course"
+  ], 
+  "zh": "高尔夫球场", 
+  "en_related": [
+    [
+      "golf course", 
+      [
+        "高尔夫球场"
+      ]
+    ], 
+    [
+      "golf links", 
+      [
+        "高尔夫球场"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "高尔夫球 高尔夫球 场", 
+      [
+        "ゴルフ場", 
+        "のゴルフコース", 
+        "はゴルフコース"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Gāo'ěrfū qiúchǎng", 
+  "ja": [
+    "ゴルフ場", 
+    "Gorufuba"
+  ]
+}

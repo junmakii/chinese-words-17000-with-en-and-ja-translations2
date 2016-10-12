@@ -1,0 +1,53 @@
+{
+  "en": [
+    "special issue"
+  ], 
+  "zh": "专刊", 
+  "en_related": [
+    [
+      "special issue", 
+      [
+        "特刊", 
+        "专刊", 
+        "专号"
+      ]
+    ], 
+    [
+      "monograph", 
+      [
+        "专刊", 
+        "专著"
+      ]
+    ], 
+    [
+      "special column", 
+      [
+        "专栏", 
+        "专刊"
+      ]
+    ], 
+    [
+      "monography", 
+      [
+        "专刊", 
+        "专著"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "专刊", 
+      [
+        "特別号", 
+        "特集号", 
+        "の特集", 
+        "本文他机关の所蔵をさがす特集"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zhuānkān", 
+  "ja": [
+    "特別号", 
+    "Tokubetsu-gō"
+  ]
+}

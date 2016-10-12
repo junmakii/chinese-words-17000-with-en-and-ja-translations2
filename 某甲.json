@@ -1,0 +1,21 @@
+{
+  "en": [
+    "Person A"
+  ], 
+  "zh": "某甲", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "某甲", 
+      [
+        "Aさん", 
+        "人物A"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Mǒu jiǎ", 
+  "ja": [
+    "Aさん", 
+    "A-san"
+  ]
+}

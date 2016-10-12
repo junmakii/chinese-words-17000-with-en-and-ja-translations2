@@ -1,0 +1,37 @@
+{
+  "en": [
+    "freighter"
+  ], 
+  "zh": "货轮", 
+  "en_related": [
+    [
+      "freighter", 
+      [
+        "货轮"
+      ]
+    ], 
+    [
+      "cargo ship", 
+      [
+        "货船", 
+        "货轮"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "货轮", 
+      [
+        "貨物船", 
+        "た貨物船", 
+        "の輸送船", 
+        "貨物"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Huòlún", 
+  "ja": [
+    "貨物船", 
+    "Kamotsusen"
+  ]
+}

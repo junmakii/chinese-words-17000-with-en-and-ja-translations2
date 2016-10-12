@@ -1,0 +1,38 @@
+{
+  "en": [
+    "locomotive"
+  ], 
+  "zh": "火车头", 
+  "en_related": [
+    [
+      "locomotive", 
+      [
+        "机车", 
+        "火车头", 
+        "机关车"
+      ]
+    ], 
+    [
+      "railway engine", 
+      [
+        "火车头"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "火车头", 
+      [
+        "機関車", 
+        "の機関車", 
+        "原動力", 
+        "ロコモーティブ"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Huǒchētóu", 
+  "ja": [
+    "機関車", 
+    "Kikansha"
+  ]
+}

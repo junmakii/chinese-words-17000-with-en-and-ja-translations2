@@ -1,0 +1,42 @@
+{
+  "en": [
+    "PARKING LOT"
+  ], 
+  "zh": "停车场", 
+  "en_related": [
+    [
+      "car park", 
+      [
+        "停车场"
+      ]
+    ], 
+    [
+      "parking lot", 
+      [
+        "停车场"
+      ]
+    ], 
+    [
+      "parking area", 
+      [
+        "停车场"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "停车场", 
+      [
+        "駐車場", 
+        "駐車場が", 
+        "の駐車場", 
+        "駐車場で"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Tíngchē chǎng", 
+  "ja": [
+    "駐車場", 
+    "Chūshajō"
+  ]
+}

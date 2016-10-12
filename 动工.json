@@ -1,0 +1,36 @@
+{
+  "en": [
+    "Begin construction"
+  ], 
+  "zh": "动工", 
+  "en_related": [
+    [
+      "begin construction", 
+      [
+        "动工"
+      ]
+    ], 
+    [
+      "start building", 
+      [
+        "动工", 
+        "动土"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "动工", 
+      [
+        "建設を開始", 
+        "着工", 
+        "着工し"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Dònggōng", 
+  "ja": [
+    "建設を開始", 
+    "Kensetsu o kaishi"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "en": [
+    "Breach of contract"
+  ], 
+  "zh": "违约", 
+  "en_related": [
+    [
+      "break a contract", 
+      [
+        "违约"
+      ]
+    ], 
+    [
+      "violate a treaty", 
+      [
+        "违约"
+      ]
+    ], 
+    [
+      "go back on one's words", 
+      [
+        "违约"
+      ]
+    ], 
+    [
+      "break one's promise", 
+      [
+        "负约", 
+        "毁约", 
+        "失信", 
+        "食言", 
+        "违约"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "违约", 
+      [
+        "契約違反", 
+        "契約違反で", 
+        "の契約違反", 
+        "契約不履行"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Wéiyuē", 
+  "ja": [
+    "契約違反", 
+    "Keiyaku ihan"
+  ]
+}

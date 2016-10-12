@@ -1,0 +1,31 @@
+{
+  "en": [
+    "Nothing to eat"
+  ], 
+  "zh": "三餐不继", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "三餐", 
+      [
+        "食べるために", 
+        "ても何も", 
+        "に何も", 
+        "は何も"
+      ]
+    ], 
+    [
+      "三餐", 
+      [
+        "何もありません", 
+        "何もない", 
+        "何も"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Sān cān bù jì", 
+  "ja": [
+    "食べるために何もありません", 
+    "Taberu tame ni nani mo arimasen"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "en": [
+    "Booking"
+  ], 
+  "zh": "预订", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "预订", 
+      [
+        "予約", 
+        "ご予約", 
+        "リザベーション", 
+        "の予約"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Yùdìng", 
+  "ja": [
+    "予約", 
+    "Yoyaku"
+  ]
+}

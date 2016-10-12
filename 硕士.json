@@ -1,0 +1,48 @@
+{
+  "en": [
+    "master's degree"
+  ], 
+  "zh": "硕士", 
+  "en_related": [
+    [
+      "master", 
+      [
+        "主", 
+        "硕士", 
+        "师傅", 
+        "大师", 
+        "师", 
+        "老爷"
+      ]
+    ], 
+    [
+      "master's degree", 
+      [
+        "硕士"
+      ]
+    ], 
+    [
+      "holder of a master's degree", 
+      [
+        "硕士"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "硕士", 
+      [
+        "修士号", 
+        "修士号を", 
+        "修士", 
+        "の修士号", 
+        "修士の学位"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Shuòshì", 
+  "ja": [
+    "修士号", 
+    "Shūshi-gō"
+  ]
+}

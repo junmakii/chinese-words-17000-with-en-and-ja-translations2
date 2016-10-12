@@ -1,0 +1,37 @@
+{
+  "en": [
+    "State-run"
+  ], 
+  "zh": "国营", 
+  "en_related": [
+    [
+      "nationalized", 
+      [
+        "国有", 
+        "国营"
+      ]
+    ], 
+    [
+      "state-run", 
+      [
+        "国立", 
+        "国营"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "国营", 
+      [
+        "国営の", 
+        "国営", 
+        "の国営"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Guóyíng", 
+  "ja": [
+    "国営の", 
+    "Kokuei no"
+  ]
+}

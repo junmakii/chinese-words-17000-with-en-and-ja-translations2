@@ -1,0 +1,31 @@
+{
+  "en": [
+    "Passenger and freight"
+  ], 
+  "zh": "客货运", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "客", 
+      [
+        "旅客", 
+        "の乗客", 
+        "パッセンジャー", 
+        "乗客"
+      ]
+    ], 
+    [
+      "客 货运", 
+      [
+        "および貨物", 
+        "・貨物", 
+        "貨物"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Kè huòyùn", 
+  "ja": [
+    "旅客および貨物", 
+    "Ryokaku oyobi kamotsu"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "en": [
+    "inventor"
+  ], 
+  "zh": "发明家", 
+  "en_related": [
+    [
+      "inventor", 
+      [
+        "发明者", 
+        "发明家"
+      ]
+    ], 
+    [
+      "inventer", 
+      [
+        "发明者", 
+        "发明家"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "发明家", 
+      [
+        "発明者", 
+        "Inventorの", 
+        "のInventor", 
+        "の発明"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Fāmíng jiā", 
+  "ja": [
+    "発明者", 
+    "Hatsumei-sha"
+  ]
+}

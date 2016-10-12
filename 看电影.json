@@ -1,0 +1,31 @@
+{
+  "en": [
+    "watch movie"
+  ], 
+  "zh": "看电影", 
+  "en_related": [
+    [
+      "see a film", 
+      [
+        "看电影"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "看", 
+      [
+        "シネマ", 
+        "映画館", 
+        "映画", 
+        "の映画", 
+        "・シネマ"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Kàn diànyǐng", 
+  "ja": [
+    "シネマ", 
+    "Shinema"
+  ]
+}

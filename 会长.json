@@ -1,0 +1,40 @@
+{
+  "en": [
+    "President"
+  ], 
+  "zh": "会长", 
+  "en_related": [
+    [
+      "chairman", 
+      [
+        "主席", 
+        "会长", 
+        "主任", 
+        "总裁"
+      ]
+    ], 
+    [
+      "president of an organization", 
+      [
+        "会长"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "会长", 
+      [
+        "社長", 
+        "大統領", 
+        "会長", 
+        "プレジデント", 
+        "代表取締役"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Huì zhǎng", 
+  "ja": [
+    "社長", 
+    "Shachō"
+  ]
+}

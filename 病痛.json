@@ -1,0 +1,44 @@
+{
+  "en": [
+    "Ailment"
+  ], 
+  "zh": "病痛", 
+  "en_related": [
+    [
+      "ailment", 
+      [
+        "病痛", 
+        "病", 
+        "恙"
+      ]
+    ], 
+    [
+      "indisposition", 
+      [
+        "病痛"
+      ]
+    ], 
+    [
+      "slight illness", 
+      [
+        "病痛"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "病痛", 
+      [
+        "病気", 
+        "な病気", 
+        "エイル", 
+        "疾患"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Bìngtòng", 
+  "ja": [
+    "病気", 
+    "Byōki"
+  ]
+}

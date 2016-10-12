@@ -1,0 +1,32 @@
+{
+  "en": [
+    "Provincial Parliament"
+  ], 
+  "zh": "省议会", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "省", 
+      [
+        "地方", 
+        "州", 
+        "の地方", 
+        "地方の"
+      ]
+    ], 
+    [
+      "议会", 
+      [
+        "議会", 
+        "の議会", 
+        "国会", 
+        "国会議事堂"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Shěng yìhuì", 
+  "ja": [
+    "地方議会", 
+    "Chihō gikai"
+  ]
+}

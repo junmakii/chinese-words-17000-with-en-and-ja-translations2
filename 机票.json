@@ -1,0 +1,31 @@
+{
+  "en": [
+    "Air tickets"
+  ], 
+  "zh": "机票", 
+  "en_related": [
+    [
+      "passenger ticket", 
+      [
+        "机票"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "机票", 
+      [
+        "航空券", 
+        "フライト", 
+        "便", 
+        "航空", 
+        "券"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Jīpiào", 
+  "ja": [
+    "航空券", 
+    "Kōkūken"
+  ]
+}

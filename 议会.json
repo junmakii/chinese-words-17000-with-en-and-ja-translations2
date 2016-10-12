@@ -1,0 +1,39 @@
+{
+  "en": [
+    "parliament"
+  ], 
+  "zh": "议会", 
+  "en_related": [
+    [
+      "parliament", 
+      [
+        "议会", 
+        "国会", 
+        "议院"
+      ]
+    ], 
+    [
+      "legislative assembly", 
+      [
+        "议会", 
+        "议院"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "议会", 
+      [
+        "パーラメント", 
+        "議会", 
+        "国会", 
+        "の国会"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Yìhuì", 
+  "ja": [
+    "パーラメント", 
+    "Pāramento"
+  ]
+}

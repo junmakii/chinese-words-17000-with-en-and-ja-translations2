@@ -1,0 +1,35 @@
+{
+  "en": [
+    "Sunset glow"
+  ], 
+  "zh": "晚霞", 
+  "en_related": [
+    [
+      "sunset glow", 
+      [
+        "晚霞", 
+        "残照"
+      ]
+    ], 
+    [
+      "sunset clouds", 
+      [
+        "晚霞"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "晚霞", 
+      [
+        "夕焼け", 
+        "夕映え"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Wǎnxiá", 
+  "ja": [
+    "夕焼け", 
+    "Yūyake"
+  ]
+}

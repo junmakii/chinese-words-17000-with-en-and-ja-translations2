@@ -1,0 +1,37 @@
+{
+  "en": [
+    "casualties"
+  ], 
+  "zh": "伤亡", 
+  "en_related": [
+    [
+      "casualties", 
+      [
+        "伤亡"
+      ]
+    ], 
+    [
+      "injuries and deaths", 
+      [
+        "伤亡"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "伤亡", 
+      [
+        "死傷者", 
+        "死傷", 
+        "事故死傷者", 
+        "の死傷者", 
+        "人的被害"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Shāngwáng", 
+  "ja": [
+    "死傷者", 
+    "Shishō-sha"
+  ]
+}

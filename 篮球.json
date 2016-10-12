@@ -1,0 +1,36 @@
+{
+  "en": [
+    "basketball"
+  ], 
+  "zh": "篮球", 
+  "en_related": [
+    [
+      "basketball", 
+      [
+        "篮球"
+      ]
+    ], 
+    [
+      "basketballer", 
+      [
+        "篮球"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "篮球", 
+      [
+        "バスケットボール", 
+        "のバスケットボール", 
+        "バスケット", 
+        "バスケットボール"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Lánqiú", 
+  "ja": [
+    "バスケットボール", 
+    "Basukettobōru"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "en": [
+    "Bookseller"
+  ], 
+  "zh": "书商", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "书", 
+      [
+        "本屋", 
+        "に書店", 
+        "の本屋", 
+        "書店"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Shū shāng", 
+  "ja": [
+    "本屋", 
+    "Hon'ya"
+  ]
+}

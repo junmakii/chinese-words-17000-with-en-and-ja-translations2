@@ -1,0 +1,23 @@
+{
+  "en": [
+    "GDP"
+  ], 
+  "zh": "总产值", 
+  "en_related": null, 
+  "ja_related": [
+    [
+      "总产值", 
+      [
+        "国内総生産", 
+        "GDP", 
+        "GDP比", 
+        "のGDP"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Zǒng chǎnzhí", 
+  "ja": [
+    "国内総生産", 
+    "Kokunaisōseisan"
+  ]
+}

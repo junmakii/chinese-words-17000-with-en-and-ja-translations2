@@ -1,0 +1,50 @@
+{
+  "en": [
+    "hippo"
+  ], 
+  "zh": "河马", 
+  "en_related": [
+    [
+      "hippo", 
+      [
+        "河马"
+      ]
+    ], 
+    [
+      "hippopotamus", 
+      [
+        "河马"
+      ]
+    ], 
+    [
+      "behemoth", 
+      [
+        "河马"
+      ]
+    ], 
+    [
+      "river horse", 
+      [
+        "河马", 
+        "鲢"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "河马", 
+      [
+        "カバ", 
+        "あるHippopotamus", 
+        "たカバ", 
+        "なカバ", 
+        "Hippopotamusの"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Hémǎ", 
+  "ja": [
+    "カバ", 
+    "Kaba"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "en": [
+    "In order to"
+  ], 
+  "zh": "用以", 
+  "en_related": [
+    [
+      "in order to", 
+      [
+        "为了", 
+        "用以"
+      ]
+    ], 
+    [
+      "so as to", 
+      [
+        "以便", 
+        "以", 
+        "为了", 
+        "用以"
+      ]
+    ]
+  ], 
+  "ja_related": [
+    [
+      "用以", 
+      [
+        "するためには"
+      ]
+    ]
+  ], 
+  "zh_pronoun": "Yòng yǐ", 
+  "ja": [
+    "するためには", 
+    "Suru tame ni wa"
+  ]
+}
